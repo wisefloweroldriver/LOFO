@@ -1,0 +1,612 @@
+1,Plot ID,Species,Distance,Azimuth,DBH_2015,Crown Class_2015,Mode of death 2015,Decay Class2015,DBH_2025,CrownClass_2025,ModeofDeath_2025,DecayClass_2025,Standing_2025,Notes_2025,Crew,Date,,Data Entered,QC
+2,A1,FRPE,4.94,3,5.5,,G,1,,,G,1,Fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+3,A1,FRPE,9.07,328,22.0,int2,,,25.1,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+4,A1,QUAL,13.09,350,8.9,OT,,,8.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+5,A1,QUAL,11.14,355,16.0,OT,,,,,P,,,Broken below breast height,"Lucy, Tegan",6/16/2025,,EEG,KF
+6,A1,QUST,9.2,345,48.0,CD,,,54.9,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+7,A1,QUST,7.25,355,14.0,,P,2,,,P,4,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+8,A1,RHCA,3.75,11,11.4,,G,1,5.2,,,,,Species change and mode of death in 2025. 2025 field survey indicated it was wrongly identifed as COFL and dead.,"Lucy, Tegan",6/16/2025,,EEG,KF
+9,A10,CAGL,2.6,12,49.5,int2,,,35.9,int2,P,2,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+10,A10,COFL,9.98,6,11.3,int1,,,,int1,,,fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+11,A10,COFL,5.49,20,7.3,OT,,,8.7,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+12,A10,COFL,12.13,350,8.8,OT,,,,,,,Fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+13,A10,NYSY,10.39,328,5.1,OT,,,6.8,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+14,A10,QUAL,5.66,304,68.1,D,,,72.6,D,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+15,A2,CATO,7.4,321,34.1,CD,,,38.3,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+16,A2,COFL,3.34,3,6.1,,G,1,,,G,1,fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+17,A2,FRPE,11.23,335,9.8,int1,,,12,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+18,A2,LITU,,,5.5,,G,1,,,G,1,fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+19,A2,N/A,,,32.0,,UR,3,,,UR,3,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+20,A2,PITA,,,38.0,,UR,3,,,UR,5,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+21,A2,PRAL7,6.41,355,14.3,int2,,,14.6,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+22,A2,QURU,9.98,356,11.6,int2,,,,int2,,,fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+23,A2,RHCA,4.92,9,,,,,6.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+24,A3,FRPE,10.52,345,14.8,int2,,,18.8,int2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+25,A3,LITU,9.59,30,8.2,int1,,,10.6,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+26,A3,LITU,9.28,326,59.1,int3,,,60.3,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+27,A3,RHCA,5.81,321,6.0,OT,,,10.3,int1,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+28,A3,RHCA,8.76,349,5.2,int1,,,,,,,fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+29,A3,VAAR,9.55,5,7.1,int1,,,8,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+30,A4,CATO,10.94,5,45.5,CD,,,47.4,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+31,A4,FRPE,8.27,1,10.3,OT,,,11.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+32,A4,FRPE,9.78,342,20.0,int2,,,23.1,int3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+33,A4,QUAL,5.27,319,18.6,int1,,,18.3,OT,,,,Top is broken but sprouting,"Lucy, Tegan",6/16/2025,,EEG,KF
+34,A4,QUAL,10.86,335,6.5,OT,,,,,,,fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+35,A5,PIEC,9.01,309,39.3,CD,,,22.8,CD,P,3,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+36,A5,QUST,4.97,2,36.7,CD,,,39.4,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+37,A5,QUST,10.13,357,55.0,CD,,,56,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+38,A5,RHCA,6.12,20,,,,,5.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+39,A5,RHCA,5.87,328,10.4,,G,1,9.1,OT,,,,Species change and mode of death change in 2025. 2025 field survey indicated it was wrongly identifed as COFL and dead.,"Lucy, Tegan",6/16/2025,,EEG,KF
+40,A5,RHCA,2.56,358,5.8,OT,,,,,,,fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+41,A6,PIEC,7.74,319,51.0,,G,1,37,,P,3,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+42,A6,QUAL,8.43,28,16.8,OT,,,17.7,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+43,A6,QUAL,9.69,328,21.6,int1,,,24,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+44,A7,FRPE,9.51,25,22.2,int3,,,28.5,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+45,A7,QUAL,8.91,337,20.5,int3,,,22.8,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+46,A7,QUAL,4.07,344,18.9,int2,,,22.4,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+47,A7,QUERCUS,,,30.0,,UR,3,,,UR,3,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+48,A7,QUVE,8.82,313,32.6,CD,,,36.4,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+49,A7,QUVE,9.82,316,31.3,CD,,,39.4,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+50,A8,FRPE,8.7,2,20.1,int1,,,24.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+51,A8,NYSY,8.69,308,7.0,OT,,,8.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+52,A8,PIEC,9.89,330,62.2,CD,,,65.4,,G,1,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+53,A8,QUAL,7.1,28,39.5,CD,,,44.9,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+54,A8,QUAL,8.8,320,18.6,int2,,,20.6,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+55,A8,QUAL,8.04,326,19.8,int1,,,22,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+56,A8,QUAL,7.25,355,15.1,,G,2,,,G,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+57,A8,QURU,9.61,348,19.7,,P,2,,,P,,Fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+58,A9,FRPE,10.39,330,13.3,int1,,,17.9,INT1,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+59,A9,PITA,,,25.0,,P,4,,,P,4,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+60,A9,PITA,,,29.0,,P,3,,,P,3,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+61,A9,QUAL,10.82,334,9.7,OT,,,11.6,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+62,B1,CAGL,12.38,350,36.6,CD,,,37.7,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+63,B1,FRPE,6.51,307,21.7,int2,,,24.5,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+64,B1,NYSY,4.82,4,,,,,5.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+65,B1,QUAL,8.95,7,14.3,OT,,,15.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+66,B1,QUAL,9.41,315,10.5,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+67,B1,QUST,9.71,28,26.4,OT,,,26.9,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+68,B1,QUST,6.02,359,28.3,CD,,,27.4,,P,2,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+69,B1,TIAM,5.73,341,,,,,7.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+70,B10,FRPE,9.03,29,5.9,OT,,,7.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+71,B10,FRPE,7.76,335,14.9,int2,,,16.8,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+72,B10,LIST,7.05,347,28.2,CD,,,38,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+73,B10,PITA,4.99,30,24.0,CD,,,26,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+74,B10,QUAL,11.15,5,54.1,D,,,57.3,D,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+75,B10,QUAL,11.92,350,25.6,OT,,,22.3,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+76,B2,FRPE,10.07,340,6.5,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+77,B2,QUAL,10.36,327,45.5,CD,,,53.7,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+78,B2,QUAL,11.7,354,13.6,OT,,,13.7,,G,1,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+79,B2,QUST,5.91,26,28.6,int2,,,29.2,,G,1,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+80,B3,CATO,9.22,334,43.4,CD,,,46.9,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+81,B3,FRPE,9.13,312,11.0,int1,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+82,B3,QUAL,6,24,25.0,int2,,,28.1,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+83,B3,QUAL,6.22,323,35.5,CD,,,43.3,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+84,B3,QUAL,1.74,355,16.1,int2,,,17,,P,1,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+85,B4,FRPE,9.4,319,15.1,int2,,,17.9,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+86,B4,QUAL,0.15,14,12.5,,P,2,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+87,B4,QUAL,4.44,306,19.7,OT,,,22,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+88,B4,QUAL,,,14.9,,P,2,,,,,FALLEN,?,"Lucy, Tegan",6/16/2025,,EEG,KF
+89,B4,QUVE,12.96,345,14.1,int2,,,16,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+90,B4,RHCA,3.93,22,7.2,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+91,B4,RHCA,9.09,330,,,,,7.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+92,B5,FRPE,8.93,315,22.1,int2,,,24.1,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+93,B5,FRPE,10.57,320,12.3,OT,,,13,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+94,B5,NYSY,7.83,17,53.4,CD,,,57.3,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+95,B5,QUAL,9.59,320,10.0,OT,,,9.8,OT,,,,Dead at top but sprouting,"Lucy, Tegan",6/16/2025,,EEG,KF
+96,B5,QUAL,6.78,345,21.5,int2,,,23.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+97,B6,Crataegus spp.,7.21,18,5.3,OT,,,6.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+98,B6,QUAL,10.49,320,17.4,int2,,,19.7,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+99,B6,QUAL,6.62,335,24.0,int2,,,26.6,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+100,B6,QUAL,13.4,345,11.6,OT,,,12,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+101,B6,QUAL,3.4,350,6.1,OT,,,6.9,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+102,B7,CATO,0.92,10,13.2,OT,,,14.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+103,B7,COFL,8.37,3,13.1,int1,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+104,B7,FRPE,13.7,344,21.9,int3,,,27.4,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+105,B7,FRPE,,,18.0,,P,2,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+106,B7,QUAL,6.97,323,25.8,,P,2,,,P,3,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+107,B7,QUAL,9.77,338,14.4,OT,,,14.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+108,B7,QUERCUS,,,23.0,,UR,3,,,UR,5,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+109,B8,FRPE,6.78,2,20.6,OT,,,21.3,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+110,B8,FRPE,6.12,320,16.6,int2,,,20.8,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+111,B8,FRPE,9.48,350,11.0,int1,,,11.4,INT1,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+112,B8,QUAL,9.54,27,12.0,OT,,,,,,,fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+113,B8,QUAL,7.27,346,43.0,CD,,,47.4,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+114,B8,QUCO,12.05,355,36.6,CD,,,35.3,,P,1,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+115,B9,CAGL,4.11,316,31.5,CD,,,34.5,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+116,B9,COFL,7.4,10,9.0,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+117,B9,FRPE,10.72,7,10.5,OT,,,12.6,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+118,B9,FRPE,2.18,318,6.5,,P,2,,,,,fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+119,B9,FRPE,8.74,327,12.1,int2,,,14.8,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+120,B9,NYSY,,,9.0,,P,2,,,,,FALLEN,can't find,"Lucy, Tegan",6/16/2025,,EEG,KF
+121,B9,QUAL,9.98,316,65.0,,P,2,,,,,fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+122,B9,QUCO,6.91,26,28.5,CD,,,34.8,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+123,B9,QURU,6.34,18,25.6,CD,,,29.9,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+124,B9,QURU,3.7,30,12.4,int2,,,,,,,fallen,,"Lucy, Tegan",6/16/2025,,EEG,KF
+125,B9,QUVE,3.26,315,,,,,14.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+126,C1,CAGL,5.77,332,57.4,D,,,62.5,D,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+127,C1,FRPE,10.36,347,8.5,OT,,,9.7,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+128,C1,NYSY,7.72,326,22.9,OT,,,22,P,3,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+129,C1,RHCA,10.96,16,5.7,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+130,C1,RHCA,3.54,28,6.3,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+131,C1,RHCA,7.1,356,6.1,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+132,C10,Crataegus spp.,8.69,340,6.4,OT,,,7.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+133,C10,FRPE,11.88,0,12.0,OT,,,13.2,,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+134,C10,LITU,8.14,29,33.8,CD,,,41,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+135,C10,QUAL,11.22,340,8.2,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+136,C2,LITU,9.17,28,17.4,int2,,,16.9,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+137,C2,LITU,9.1,34,53.2,CD,,,53.7,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+138,C2,RHCA,4.52,30,6.2,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+139,C3,LITU,6.53,13,11.8,OT,,,12.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+140,C3,QUAL,3.29,339,18.0,OT,,,18.7,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+141,C3,RHCA,9.95,20,7.2,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+142,C3,RHCA,5.08,30,6.3,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+143,C3,RHCA,7.24,337,6.7,OT,,,8.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+144,C3,RHCA,5.7,338,5.0,OT,,,6.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+145,C3,RHCA,2.99,358,5.4,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+146,C4,FRPE,5.31,15,19.1,int2,,,19.9,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+147,C4,LITU,8.48,14,16.8,int2,,,14.6,,P,3,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+148,C4,LITU,7.63,30,11.8,OT,,,11.6,,,,,Dead at top,"Lucy, Tegan",6/16/2025,,EEG,KF
+149,C4,LITU,9.06,325,47.8,CD,,,58.8,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+150,C4,LITU,3.64,350,47.6,CD,,,57.2,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+151,C4,RHCA,3.83,21,9.0,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+152,C5,COFL,1.2,306,11.1,OT,,,,,UR,1,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+153,C5,NYSY,9.38,307,48.6,CD,,,50.6,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+154,C5,RHCA,6.36,3,7.1,OT,,,10.1,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+155,C5,RHCA,7.64,22,,,,,6.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+156,C5,RHCA,5.66,328,,,,,5.1,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+157,C5,RHCA,5.94,335,6.2,OT,,,8.9,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+158,C6,CAGL,10.1,29,26.0,OT,,,30.1,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+159,C6,CAGL,8.87,334,33.6,int2,,,36.4,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+160,C6,FRPE,10.76,335,5.9,OT,,,7.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+161,C6,LITU,2.92,8,40.8,CD,,,47,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+162,C6,RHCA,3.33,29,6.1,OT,,,8.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+163,C6,RHCA,5.97,336,,,,,6.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+164,C7,FRPE,8.82,358,8.3,int1,,,9.3,INT1,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+165,C7,OXAR,6.44,30,19.3,OT,,,20.1,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+166,C7,OXAR,5.99,342,16.1,OT,,,16.8,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+167,C7,OXAR,4.78,343,13.2,OT,,,13.7,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+168,C7,PIEC,5.57,348,48.5,D,,,49.8,,G,1,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+169,C7,PITA,11.43,354,22.0,,P,4,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+170,C7,QUAL,9.45,307,25.7,int2,,,29.2,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+171,C8,FRPE,9.62,10,6.0,,P,1,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+172,C8,FRPE,6.4,22,13.8,int2,,,15.6,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+173,C8,LITU,6.91,348,37.0,CD,,,43.5,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+174,C8,LITU,6.39,350,35.9,CD,,,41.8,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+175,C8,QUAL,5.13,320,8.7,OT,,,10.8,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+176,C8,QUAL,2.72,352,9.3,OT,,,10,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+177,C9,CAGL,8.59,345,35.8,CD,,,38.4,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+178,C9,COFL,8.54,15,10.4,,G,1,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+179,C9,LITU,9.51,30,30.8,CD,,,37.2,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+180,C9,NYSY,4.22,7,25.9,int3,,,26.9,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+181,C9,OXAR,10.75,15,15.9,OT,,,16.1,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+182,C9,OXAR,9.4,15,,,,,6.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+183,C9,PITA,8.36,30,42.6,,G,2,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+184,C9,QURU,10.27,19,41.1,CD,,,45,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+185,C9,QURU,7.68,348,14.0,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+186,D1,CAGL,7.07,312,44.7,CD,,,48.5,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+187,D1,LIST2,6.17,22,9.5,OT,,,10.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+188,D1,LITU,2.33,311,40.5,int2,,,42.4,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+189,D1,QUAL,5.28,329,16.8,int2,,,18.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+190,D1,RHCA,12.03,349,6.6,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+191,D1,RHCA,2.77,353,5.0,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+192,D10,CAGL,14.14,345,29.7,int3,,,33.2,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+193,D10,COFL,7.59,13,6.5,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+194,D10,FRPE,11.26,315,14.7,int1,,,17.3,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+195,D10,NYSY,11.89,330,19.6,OT,,,,,,,,NOT HERE,"Lucy, Tegan",6/16/2025,,EEG,KF
+196,D10,OXAR,6.18,9,15.6,OT,,,16.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+197,D10,QUAL,7.25,4,62.9,CD,,,66.9,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+198,D2,CATO,4.8,304,51.0,CD,,,55.4,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+199,D2,LITU,10.36,2,20.8,int2,,,22.3,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+200,D2,LITU,9.16,16,11.6,,G,1,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+201,D2,LITU,9.85,24,29.8,CD,,,35.7,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+202,D2,LITU,4.93,25,18.8,OT,,,19.7,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+203,D2,NA,6.44,4,9.0,,P,4,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+204,D2,NYSY,10.11,312,27.2,OT,,,,,,,FALLEN,No trace deep hole,"Lucy, Tegan",6/16/2025,,EEG,KF
+205,D2,OXAR,7.61,350,,,,,7.9,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+206,D2,RHCA,10.3,330,,,,,8.8,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+207,D2,RHCA,3.31,336,5.8,OT,,,,,P,1,,LSCM DBH but exact loc.,"Lucy, Tegan",6/16/2025,,EEG,KF
+208,D3,FRPE,6.9,328,41.3,CD,,,45.8,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+209,D3,LITU,10.44,358,44.8,CD,,,50.5,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+210,D3,LITU,10.71,329,22.1,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+211,D3,NA,,,30.0,,UR,4,,,,,,NO TRACE* ghost log along D2:D3 borders,"Lucy, Tegan",6/16/2025,,EEG,KF
+212,D3,OXAR,8.18,4,7.6,OT,,,9.8,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+213,D3,QURU,10.83,334,10.7,OT,,,11.7,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+214,D4,CAGL,11.07,350,33.0,int3,,,34.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+215,D4,LITU,10.57,3,11.7,OT,,,12.1,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+216,D4,LITU,4.01,324,28.5,CD,,,31.5,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+217,D4,OXAR,5.59,315,23.4,OT,,,25.9,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+218,D4,QUAL,9.4,1,72.5,D,,,79.4,D,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+219,D5,CATO,5.87,20,28.8,int3,,,29.7,,G,1,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+220,D5,FRPE,9.1,0,8.0,OT,,,8.1,,G,1,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+221,D5,FRPE,10.15,318,8.0,OT,,,7.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+222,D5,LITU,9.52,4,17.4,OT,,,19.3,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+223,D5,LITU,8.8,13,14.3,int1,,,15.1,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+224,D5,LITU,4.39,321,14.5,OT,,,15.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+225,D6,LITU,6.75,5,11.9,OT,,,12.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+226,D6,LITU,8.61,26,10.4,OT,,,11.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+227,D6,LITU,8.23,348,25.4,CD,,,28.1,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+228,D6,QUAL,4.92,319,64.5,CD,,,69.2,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+229,D7,LITU,6.43,22,16.0,int2,,,20,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+230,D7,LITU,11.75,354,19.1,int2,,,23.8,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+231,D7,NA,1.41,14,28.0,,P,3,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+232,D7,PITA,9.03,310,45.0,,P,3,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+233,D7,QUAL,3.49,3,64.7,CD,,,67.6,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+234,D7,QURU,8.95,325,15.2,int1,,,17.3,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+235,D8,FRPE,11.04,13,7.6,OT,,,,,,,FALLEN,,"Lucy, Tegan",6/16/2025,,EEG,KF
+236,D8,NYSY,10.27,5,29.3,OT,,,29.9,INT2,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+237,D8,OXAR,9.79,358,16.1,OT,,,19.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+238,D9,FRPE,8.65,312,9.8,OT,,,11.4,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+239,E1,FRPE,6,24,8.4,OT,,,9.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+240,E1,LITU,8.83,7,6.5,OT,,,6.7,,G,2,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+241,E1,LITU,9.45,26,18.0,OT,,,19.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+242,E1,LITU,7.16,27,39.9,CD,,,46.7,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+243,E1,LITU,9.74,337,32.0,CD,,,37.3,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+244,E1,QURU,3,313,23.5,OT,,,25.5,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+245,E1,QURU,8.72,342,19.9,int3,,,22.3,INT3,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+246,E1,RHCA,1.78,30,5.1,OT,,,7.2,OT,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+247,E10,CATO,6.78,29,27.1,OT,,,28.8,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+248,E10,FRPE,9.66,20,8.6,OT,,,9.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+249,E10,LITU,11.27,11,5.2,OT,,,,,,,FALLEN,NOT FOUND,"Emily,Lilly",6/16/2025,,EEG,KF
+250,E10,QUAL,11.5,4,25.3,,P,2,,,,,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+251,E10,QUAL,11.45,328,48.6,CD,,,53,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+252,E10,QUAL,7.46,349,52.5,CD,,,55.7,CD,,,,,"Lucy, Tegan",6/16/2025,,EEG,KF
+253,E2,CAGL,10.55,339,31.5,CD,,,32.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+254,E2,LITU,6.8,30,40.0,CD,,,48.6,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+255,E2,LITU,8.89,311,19.0,int2,,,19.4,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+256,E2,LITU,12.71,343,16.9,OT,,,17.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+257,E2,LITU,12.11,353,13.3,OT,,,,,,3,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+258,E2,OXAR,3.84,355,16.3,OT,,,18,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+259,E2,RHCA,6.31,320,5.2,OT,,,5.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+260,E3,LITU,3.83,356,17.8,OT,,,18.1,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+261,E3,LITU,6.33,359,20.3,OT,,,21.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+262,E3,RHCA,0.73,22,5.0,OT,,,,,,,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+263,E3,SAAL,7.97,332,10.5,OT,,,,,,3,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+264,E3,TIAM,5.59,319,7.7,OT,,,7.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+265,E4,CAGL,7.19,25,34.9,CD,,,39.2,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+266,E4,SAAL,11.08,5,6.2,OT,,,,,,3,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+267,E4,SAAL,9.21,11,9.2,OT,,,9.5,,G,3,,,"Emily,Lilly",6/16/2025,,EEG,KF
+268,E4,SAAL,7.92,345,14.8,OT,,,15.4,,G,2,,,"Emily,Lilly",6/16/2025,,EEG,KF
+269,E5,FRPE,7.54,312,9.3,OT,,,,,,4,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+270,E5,QUAL,5.8,23,37.6,int3,,,39.6,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+271,E5,QUAL,9.41,327,66.9,CD,,,71.1,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+272,E5,SAAL,6.37,30,10.2,,G,1,,,,,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+273,E6,CATO,7.88,8,21.5,OT,,,22.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+274,E6,LITU,3.13,28,7.8,OT,,,8.4,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+275,E6,QUAL,9.63,310,51.9,CD,,,56.7,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+276,E7,FRPE,5.73,346,12.4,OT,,,14.4,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+277,E7,LITU,4.17,20,5.2,OT,,,,,,,FALLEN,CNF,"Emily,Lilly",6/16/2025,,EEG,KF
+278,E7,LITU,9.27,30,18.2,int2,,,20.9,INT2,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+279,E7,LITU,9.43,338,18.9,int3,,,23.5,INT3,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+280,E7,LITU,4.06,344,15.2,OT,,,16.5,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+281,E7,NA,7.29,339,25.0,,P,3,,,,,FALLEN,CNF,"Emily,Lilly",6/16/2025,,EEG,KF
+282,E7,QUAL,10.47,317,55.9,CD,,,60,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+283,E7,SAAL,6.69,30,6.1,,G,2,,,G,2,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+284,E8,CAGL,8.98,325,45.0,OT,,,,,P,4,,,"Emily,Lilly",6/16/2025,,EEG,KF
+285,E8,CAGL,8.49,325,27.9,OT,,,30.8,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+286,E8,FRPE,8.43,8,12.2,OT,,,12.4,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+287,E8,LITU,6.21,15,13.8,OT,,,14.8,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+288,E8,LITU,6.94,354,8.9,OT,,,9.4,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+289,E8,NYSY,5.82,24,29.7,int2,,,30.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+290,E9,CAGL,6.44,331,29.8,OT,,,31.1,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+291,E9,FRPE,6.71,30,,,,,5.6,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+292,E9,FRPE,7.76,316,,,,,5.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+293,E9,FRPE,8.12,356,14.5,int2,,,15.9,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+294,E9,LITU,7.92,30,19.7,int2,,,24.9,INT2,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+295,E9,QUAL,6.38,314,22.8,OT,,,22.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+296,E9,QUAL,6.97,323,64.9,CD,,,67.4,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+297,F1,FRPE,6.03,1,7.0,OT,,,7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+298,F1,LIST,7.12,335,5.2,OT,,,,,,3,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+299,F1,LITU,9.25,311,16.2,OT,,,16.2,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+300,F1,LITU,8.55,357,21.9,int2,,,22.2,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+301,F10,LITU,2.53,17,15.0,OT,,,18.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+302,F10,LITU,5.1,27,10.2,OT,,,10.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+303,F10,LITU,8.97,341,32.4,CD,,,37,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+304,F10,LITU,13.4,358,13.2,OT,,,15.1,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+305,F10,QUAL,6.3,320,65.6,CD,,,69.3,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+306,F2,HACA,8.92,327,5.9,OT,,,6,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+307,F2,LITU,5.09,15,13.6,OT,,,14,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+308,F2,LITU,9.46,18,15.7,OT,,,16.4,,P,1,,,"Emily,Lilly",6/16/2025,,EEG,KF
+309,F2,LITU,5.42,329,18.8,OT,,,21.1,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+310,F2,LITU,11.67,340,22.4,int3,,,25.6,INT3,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+311,F2,LITU,11.94,355,9.1,OT,,,10.2,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+312,F2,LITU,9.02,359,27.5,CD,,,33.7,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+313,F2,OXAR,3.65,12,9.4,OT,,,9.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+314,F2,OXAR,3.73,23,13.5,OT,,,,,,,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+315,F3,CAGL,4.64,2,44.3,CD,,,46.5,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+316,F3,CAGL,7.13,351,24.6,OT,,,24.8,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+317,F3,LITU,6.59,313,14.1,OT,,,15.8,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+318,F3,LITU,7.3,324,,,,,6,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+319,F3,LITU,8.2,341,,,,,5,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+320,F3,OXAR,1.54,7,20.6,OT,,,21.9,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+321,F3,QURU,11.72,350,31.0,int3,,,31.9,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+322,F3,SAAL,9.23,308,7.9,,G,1,,,G,1,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+323,F4,COFL,3.34,317,5.4,OT,,,,,,,FALLEN,CNF,"Emily,Lilly",6/16/2025,,EEG,KF
+324,F4,NA,,,55.0,,UR,3,,,,,,CNF,"Emily,Lilly",6/16/2025,,EEG,KF
+325,F4,OXAR,3.97,0,18.3,OT,,,19.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+326,F4,QUAL,10.93,333,7.4,OT,,,8.6,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+327,F4,QUAL,6.5,344,,,,,6.5,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+328,F5,CATO,5.78,321,43.1,CD,,,45.3,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+329,F5,FRPE,0.17,17,6.8,OT,,,7.4,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+330,F5,LITU,11.5,358,55.3,CD,,,60.1,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+331,F5,NYSY,6.3,8,27.3,int2,,,27.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+332,F5,OXAR,13.92,349,19.2,OT,,,21.1,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+333,F5,QUAL,8.21,9,8.1,OT,,,,,,1,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+334,F5,QUAL,8.83,334,6.4,OT,,,6.1,,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+335,F5,QUVE,3.64,7,36.5,CD,,,37.3,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+336,F6,CATO,8.62,329,21.6,OT,,,22.9,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+337,F6,COFL,4.78,22,10.3,,G,1,,,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+338,F6,OXAR,6.66,341,14.7,OT,,,17.6,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+339,F6,PRAL7,10.47,18,8.8,OT,,,,,,,FALLEN,CNF,"Emily,Lilly",6/16/2025,,EEG,KF
+340,F6,QUAL,6.02,315,54.9,CD,,,58.3,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+341,F6,QUAL,10.5,339,78.6,D,,,83,D,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+342,F6,RHCA,3.98,18,,,,,8.2,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+343,F6,SAAL,6.58,4,18.9,OT,,,,,,3,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+344,F7,LITU,9.17,316,18.3,OT,,,18.6,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+345,F8,CAGL,4.77,319,31.9,CD,,,37,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+346,F8,FRPE,8.81,9,8.5,OT,,,8.2,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+347,F8,FRPE,7.81,18,8.7,OT,,,11,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+348,F8,FRPE,12.44,344,5.8,OT,,,6.1,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+349,F8,FRPE,10.82,346,12.1,OT,,,13.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+350,F8,FRPE,4.17,353,5.8,OT,,,6.8,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+351,F8,LITU,9.4,341,14.5,OT,,,15.4,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+352,F8,TIAM,8.45,347,8.3,OT,,,9.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+353,F9,CAGL,9.73,11,50.1,CD,,,53.3,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+354,F9,Crataegus spp.,11.57,356,5.2,OT,,,5.4,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+355,F9,FRPE,7.15,329,5.6,OT,,,6.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+356,F9,FRPE,3.4,351,9.3,OT,,,9.4,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+357,F9,LITU,5.45,12,12.0,OT,,,11.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+358,F9,LITU,9.09,29,12.3,OT,,,15,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+359,F9,LITU,4.31,341,20.8,int3,,,23.1,INT3,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+360,F9,QUAL,9.99,22,5.3,OT,,,5.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+361,G1,FRPE,5.32,328,,,,,5.8,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+362,G1,LIST,4.9,16,6.7,OT,,,5.19,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+363,G1,LIST,9.76,322,10.1,OT,,,11.5,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+364,G1,LITU,8.16,10,12.5,OT,,,12.4,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+365,G1,LITU,2.54,30,54.0,CD,,,62.2,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+366,G1,LITU,7.03,328,28.7,int3,,,35.1,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+367,G1,LITU,10.94,346,9.4,OT,,,,,,,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+368,G1,QUVE,11.06,353,28.0,OT,,,,,,3,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+369,G10,CATO,9.57,10,35.9,CD,,,37.7,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+370,G10,COFL,12.81,357,11.6,OT,,,,,,,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+371,G10,FRPE,5.45,,,,,,6.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+372,G10,LIST,8.11,1,6.3,OT,,,10.1,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+373,G10,LITU,11.1,348,14.3,OT,,,16.9,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+374,G10,NA,12.73,330,16.5,,G,3,,,,,FALLEN,CNF,"Emily,Lilly",6/16/2025,,EEG,KF
+375,G10,OXAR,0.85,9,19.7,OT,,,17.6,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+376,G10,OXAR,10,343,12.6,OT,,,22.1,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+377,G10,SAAL,6.38,346,6.7,OT,,,6.6,,P,2,,,"Emily,Lilly",6/16/2025,,EEG,KF
+378,G2,CAGL,7.8,319,32.2,OT,,,34.4,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+379,G2,HACA,3.82,343,6.6,,G,2,,,,,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+380,G2,LIST,8.19,2,9.9,OT,,,13.5,INT2,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+381,G2,LITU,7.28,25,9.5,OT,,,11.1,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+382,G2,OXAR,10.49,351,16.1,OT,,,18.1,INT2,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+383,G2,PIEC,8.92,11,36.4,CD,,,37.2,,P,2,,,"Emily,Lilly",6/16/2025,,EEG,KF
+384,G2,PRAL7,,,19.0,,UR,3,,,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+385,G3,HACA,9.33,13,6.2,OT,,,,,,,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+386,G3,HACA,9.67,13,5.6,OT,,,,,,,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+387,G3,HACA,5.62,14,,,,,5.7,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+388,G3,LIST,5.75,310,10.2,OT,,,12.8,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+389,G3,OXAR,5.86,328,13.5,OT,,,13.8,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+390,G3,OXAR,8.37,336,19.9,OT,,,21.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+391,G3,QUAL,3.88,353,77.9,D,,,81,D,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+392,G4,FRPE,10.69,25,8.1,OT,,,10.3,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+393,G4,LIST,8.3,310,10.1,OT,,,12.6,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+394,G4,OXAR,6.57,30,13.1,OT,,,15.1,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+395,G4,QUAL,8.39,300,5.2,OT,,,5.2,,G,1,,,"Emily,Lilly",6/16/2025,,EEG,KF
+396,G4,QUAL,6.62,329,10.4,OT,,,10.8,,P,1,,,"Emily,Lilly",6/16/2025,,EEG,KF
+397,G4,QUAL,8.56,342,8.6,,G,2,,,,,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+398,G4,RHCA,5.85,,,,,,5.8,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+399,G5,COFL,3.05,311,5.3,,G,1,,,,,FALLEN,CNF,"Emily,Lilly",6/16/2025,,EEG,KF
+400,G5,FAGR,13.05,352,17.1,OT,,,18.9,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+401,G5,FRPE,8.08,30,7.4,int1,,,,,,,FALLEN,CNF,"Emily,Lilly",6/16/2025,,EEG,KF
+402,G5,FRPE,10.06,330,9.1,OT,,,10.6,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+403,G5,NA,,,20.0,,UR,3,,,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+404,G5,QUAL,2.06,336,5.7,,G,1,,,,,FALLEN,CNF,"Emily,Lilly",6/16/2025,,EEG,KF
+405,G5,QUAL,,,8.0,,UR,1,,,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+406,G5,QUVE,6.95,354,22.7,Int2,,,,,,,FALLEN,,"Emily,Lilly",6/16/2025,,EEG,KF
+407,G6,CATO,0.83,354,30.8,int3,,,31.7,INT3,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+408,G6,Crataegus spp.,8.15,327,,,,,5.8,OT,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+409,G6,NA,,,32.0,,UR,3,,,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+410,G6,QUAL,7.49,339,5.5,OT,,,,,,,FALLEN,CNF,"Emily,Lilly",6/16/2025,,EEG,KF
+411,G7,CAGL,6.27,26,31.4,int3,,,33.6,OT,,,,,"Emily,Lilly",,,EEG,KF
+412,G7,Crataegus spp.,9.13,322,,,,,5.5,OT,,,,,"Emily,Lilly",,,EEG,KF
+413,G7,LITU,10.46,357,45.0,CD,,,54.2,CD,,,,,"Emily,Lilly",6/16/2025,,EEG,KF
+414,G7,OXAR,6.93,325,15.6,OT,,,18.3,OT,,,,,"Emily,Lilly",,,EEG,KF
+415,G8,CATO,4.23,338,41.0,CD,,,40.7,CD,,,,,"Emily,Lilly",,,EEG,KF
+416,G8,CATO,8.28,348,24.2,int2,,,25,INT2,,,,,"Emily,Lilly",,,EEG,KF
+417,G8,CATO,6.3,359,31.6,CD,,,34,CD,,,,,"Emily,Lilly",,,EEG,KF
+418,G8,COFL,12.28,353,11.6,OT,,,,,,4,FALLEN,,"Emily,Lilly",,,EEG,KF
+419,G8,FRPE,5.04,338,,,,,6.3,OT,,,,,"Emily,Lilly",,,EEG,KF
+420,G8,QUAL,9.04,21,5.9,OT,,,6.8,OT,,,,,"Emily,Lilly",,,EEG,KF
+421,G9,CATO,3,27,30.4,CD,,,31.3,INT,,,,,"Emily,Lilly",,,EEG,KF
+422,G9,COFL,9.93,337,5.8,OT,,,7.2,OT,,,,,"Emily,Lilly",,,EEG,KF
+423,G9,DIVI,7.64,329,14.8,,G,1,,,,,FALLEN,,"Emily,Lilly",,,EEG,KF
+424,G9,FRPE,6.97,359,7.8,OT,,,8.1,OT,,,,,"Emily,Lilly",,,EEG,KF
+425,G9,LITU,7.53,308,47.8,CD,,,54.4,CD,,,,,"Emily,Lilly",,,EEG,KF
+426,G9,QUVE,8.46,1,5.4,OT,,,6.2,OT,,,,,"Emily,Lilly",,,EEG,KF
+427,H1,CATO,8.22,13,8.2,OT,,,9.4,OT,,,,,"Lilly, Emiy",,,EEG,KF
+428,H1,FRPE,9.49,25,19.3,int2,,,22.2,OT,,,,,"Lilly, Emiy",,,EEG,KF
+429,H1,FRPE,12.86,343,13.0,OT,,,,,,,FALLEN,,"Lilly, Emiy",,,EEG,KF
+430,H1,LIST,7.54,358,6.2,OT,,,7.4,OT,,,,,"Emily,Lilly",,,EEG,KF
+431,H1,LITU,4.54,3,11.2,OT,,,,,,,FALLEN,,"Lilly, Emiy",,,EEG,KF
+432,H1,PIEC,10.72,311,61.4,CD,,,61,,P,1,,,"Lilly, Emiy",,,EEG,KF
+433,H1,PIEC,3.73,340,49.8,CD,,,50.6,,G,2,,,"Lilly, Emiy",,,EEG,KF
+434,H1,PIEC,5.94,343,49.1,CD,,,49.4,,G,2,,,"Lilly, Emiy",,,EEG,KF
+435,H1,QUAL,12.13,318,,,,,6.7,OT,,,,,"Lilly, Emiy",,,EEG,KF
+436,H1,QUAL,4.84,347,8.2,OT,,,6.1,OT,,,,,"Lilly, Emiy",,,EEG,KF
+437,H1,QURU,7.57,311,11.3,OT,,,12.9,OT,,,,,"Lilly, Emiy",,,EEG,KF
+438,H10,CAGL,12.89,333,17.2,int2,,,18.2,OT,,,,,"Lilly, Emiy",,,EEG,KF
+439,H10,CATO,5.83,18,20.0,int2,,,21.2,OT,,,,,"Lilly, Emiy",,,EEG,KF
+440,H10,COFL,8.77,345,10.0,OT,,,12.4,OT,,,,,"Lilly, Emiy",,,EEG,KF
+441,H10,OXAR,8.62,1,22.5,OT,,,24.5,OT,,,,,"Lilly, Emiy",,,EEG,KF
+442,H10,OXAR,8.82,2,,,,,7.7,,,,,,"Lilly, Emiy",,,EEG,KF
+443,H2,CATO,11.31,344,28.5,int2,,,30.6,INT2,,,,,"Lilly, Emiy",,,EEG,KF
+444,H2,OXAR,10.35,3,7.5,OT,,,11.2,OT,,,,,"Lilly, Emiy",,,EEG,KF
+445,H2,QUAL,3.53,8,5.7,OT,,,6.6,OT,,,,,"Lilly, Emiy",,,EEG,KF
+446,H3,CAGL,13.97,347,40.0,CD,,,47.1,,G,1,,,"Lilly, Emiy",,,EEG,KF
+447,H3,CATO,9.59,318,15.9,OT,,,15.5,OT,,,,,"Lilly, Emiy",,,EEG,KF
+448,H3,CATO,0.9,326,39.0,CD,,,42.7,CD,,,,,"Lilly, Emiy",,,EEG,KF
+449,H3,FRPE,8.53,350,5.9,OT,,,7.2,OT,,,,,"Lilly, Emiy",,,EEG,KF
+450,H3,NYSY,9.29,9,5.1,OT,,,6.3,OT,,,,,"Lilly, Emiy",,,EEG,KF
+451,H3,NA,8.83,354,,,,,5.1,,G,1,,,"Lilly, Emiy",,,EEG,KF
+452,H4,CATO,4.67,331,25.6,int2,,,26.1,INT2,,,,,"Lilly, Emiy",,,EEG,KF
+453,H4,COFL,8.78,352,,,,,6.5,OT,,,,,"Lilly, Emiy",,,EEG,KF
+454,H4,Crataegus spp.,7.81,6,,,,,5,OT,,,,,"Lilly, Emiy",,,EEG,KF
+455,H4,FRPE,3.93,9,6.0,OT,,,7.7,OT,,,,,"Lilly, Emiy",,,EEG,KF
+456,H4,QUAL,12.38,342,12.5,OT,,,14,OT,,,,,"Lilly, Emiy",,,EEG,KF
+457,H4,QURU,10.61,331,36.1,CD,,,40.3,CD,,,,,"Lilly, Emiy",,,EEG,KF
+458,H5,COFL,7.61,3,7.5,,G,1,,,,,FALLEN,,"Lilly, Emiy",,,EEG,KF
+459,H5,FAGR,6.76,309,10.7,OT,,,11.9,OT,,,,,"Lilly, Emiy",,,EEG,KF
+460,H5,FAGR,5.74,320,8.5,OT,,,8.6,OT,,,,,"Lilly, Emiy",,,EEG,KF
+461,H5,FAGR,5.74,321,8.1,OT,,,7.9,OT,,,,,"Lilly, Emiy",,,EEG,KF
+462,H5,FAGR,8.72,322,18.3,int2,,,20.3,INT2,,,,,"Lilly, Emiy",,,EEG,KF
+463,H5,FAGR,5.91,322,11.9,OT,,,13.3,OT,,,,,"Lilly, Emiy",,,EEG,KF
+464,H5,FAGR,9.08,322,7.6,OT,,,7.7,OT,,,,,"Lilly, Emiy",,,EEG,KF
+465,H5,FAGR,6.17,322,,,,,5.2,OT,,,,,"Lilly, Emiy",,,EEG,KF
+466,H5,LITU,9.1,12,76.4,CD,,,82.3,CD,,,,,"Lilly, Emiy",,,EEG,KF
+467,H5,NA,,,20.0,,UR,3,,,,,,,"Lilly, Emiy",,,EEG,KF
+468,H6,CATO,3.98,309,19.6,int2,,1,,,,1,FALLEN,,"Lilly, Emiy",,,EEG,KF
+469,H6,CATO,9.02,322,19.6,int2,,,22,OT,,,,,"Lilly, Emiy",,,EEG,KF
+470,H6,CATO,10.36,354,5.3,OT,,,5.6,OT,,,,,"Lilly, Emiy",,,EEG,KF
+471,H6,FRPE,7.55,2,5.3,OT,,,6.9,OT,,,,,"Lilly, Emiy",,,EEG,KF
+472,H6,FRPE,5.44,328,5.3,OT,,,6.8,OT,,,,,"Lilly, Emiy",,,EEG,KF
+473,H6,FRPE,10.45,337,5.8,OT,,,7.7,OT,,,,,"Lilly, Emiy",,,EEG,KF
+474,H7,CATO,9.24,0,9.5,OT,,,11.1,,P,1,,,"Lilly, Emiy",,,EEG,KF
+475,H7,CATO,14.06,353,6.1,OT,,,6.1,OT,,,,,"Lilly, Emiy",,,EEG,KF
+476,H7,CATO,12.86,357,5.1,int1,,,5.3,INT1,,,,,"Lilly, Emiy",,,EEG,KF
+477,H7,HARDWOOD,8.1,,,,,,7.3,,G,1,,,"Lilly, Emiy",,,EEG,KF
+478,H7,PRAL7,9.37,15,9.2,OT,,,10.8,OT,,,,,"Lilly, Emiy",,,EEG,KF
+479,H7,QURU,8.71,357,54.2,CD,,,57.3,CD,,,,,"Lilly, Emiy",,,EEG,KF
+480,H8,HACA,9.67,0,7.2,int1,,,,,,,FALLEN,,"Lilly, Emiy",,,EEG,KF
+481,H8,HACA,7.11,5,6.1,int1,,,,,,,FALLEN,,"Lilly, Emiy",,,EEG,KF
+482,H8,QUAL,9.85,331,5.2,OT,,,,,,,FALLEN,,"Lilly, Emiy",,,EEG,KF
+483,H8,TIAM,10.63,21,8.6,int1,,,,,,,FALLEN,,"Lilly, Emiy",,,EEG,KF
+484,H9,CATO,9.76,303,41.4,CD,,,44.6,CD,,,,,"Lilly, Emiy",,,EEG,KF
+485,H9,CATO,6.97,340,18.2,int2,,,,,,,FALLEN,,"Lilly, Emiy",,,EEG,KF
+486,H9,CATO,3.82,357,10.2,OT,,,,,,,FALLEN,,"Lilly, Emiy",,,EEG,KF
+487,H9,FAGR,10.02,328,15.3,int1,,,16.7,OT,,,,,"Lilly, Emiy",,,EEG,KF
+488,H9,NA,,,22.0,,UR,3,,,,,,,"Lilly, Emiy",,,EEG,KF
+489,H9,OSVI,6.21,24,8.4,int1,,,11.1,INT1,,,,,"Lilly, Emiy",,,EEG,KF
+490,H9,OXAR,7.65,318,14.6,OT,,,17.9,OT,,,,,"Lilly, Emiy",,,EEG,KF
+491,H9,OXAR,8.64,352,23.6,int2,,,27.7,INT2,,,,,"Lilly, Emiy",,,EEG,KF
+492,H9,SAAL,7.49,303,20.7,,P,1,,,P,2,,,"Lilly, Emiy",,,EEG,KF
+493,I1,CAGL,1.68,341,7.6,OT,,,8.2,OT,,,,,"Lilly, Emiy",,,EEG,KF
+494,I1,CAGL,10.76,352,25.4,int3,,,27.7,INT3,,,,,"Lilly, Emiy",,,EEG,KF
+495,I1,CATO,5.62,330,15.0,OT,,,13.9,OT,,,,,"Lilly, Emiy",,,EEG,KF
+496,I1,FRPE,6.85,340,12.7,OT,,,13.7,OT,,,,,"Lilly, Emiy",,,EEG,KF
+497,I1,NA,,,24.0,,UR,4,,,,,,"Decayed, no trace","Lilly, Tegan",6/17/2025,,EEG,KF
+498,I1,QUAL,8.13,14,9.3,OT,,,9.5,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+499,I1,QUAL,11.06,320,10.2,OT,,,10.8,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+500,I1,QUAL,11.07,347,7.6,OT,,,8.4,OT,,,,,"Lilly, Emiy",,,EEG,KF
+501,I1,QURU,13.65,343,50.0,CD,,,54.7,CD,,,,,"Lilly, Emiy",,,EEG,KF
+502,I1,QUST,4.49,329,31.3,int3,,,34.2,int3,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+503,I1,RHCA,7.28,329,,,,,5.6,,,,,Bent over,"Lilly, Tegan",6/17/2025,,EEG,KF
+504,I10,CATO,12.72,352,,,,,6,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+505,I10,CECA4,7.43,339,,,,,5.8,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+506,I10,CECA4,9.76,360,,,,,5.1,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+507,I10,COFL,12.62,328,10.6,,G,1,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+508,I10,COFL,14,339,8.1,OT,,,9,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+509,I2,CECA4,12.3,331,,,,,5.5,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+510,I2,QUAL,9.08,10,9.0,OT,,,9.5,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+511,I2,QUAL,9.4,324,11.3,OT,,,12,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+512,I2,QUAL,12.57,335,14.3,OT,,,16.3,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+513,I2,SAAL,6.48,20,8.5,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+514,I3,FRPE,8.63,327,8.8,OT,,,11.1,INT1,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+515,I3,FRPE,11.85,342,6.7,OT,,,7.9,INT1,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+516,I3,FRPE,11.36,351,8.3,OT,,,10.3,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+517,I3,LITU,9.47,342,55.6,CD,,,61.7,CD,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+518,I4,FRPE,6.14,317,10.6,OT,,,12.3,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+519,I4,FRPE,3.92,341,6.2,OT,,,6.8,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+520,I4,FRPE,8.38,349,9.3,OT,,,13.3,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+521,I4,LITU,5.29,330,84.5,CD,,,90.5,CD,,,,Top unhealthy,"Lilly, Tegan",6/17/2025,,EEG,KF
+522,I5,FRPE,7.57,319,7.2,OT,,,8.2,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+523,I5,NYSY,4.1,328,27.1,int2,,,27.8,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+524,I5,QUAL,9.92,334,9.6,int1,,,9.6,INT1,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+525,I6,ACRU,8.68,25,7.8,OT,,,10.2,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+526,I6,CATO,11.85,7,28.5,int2,,,34,INT2,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+527,I6,Crataegus spp.,5.77,12,6.0,,G,2,6,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+528,I6,FRPE,11.99,13,9.3,OT,,,11.8,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+529,I6,FRPE,9.14,14,11.6,OT,,,11.9,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+530,I6,FRPE,11.72,347,10.1,OT,,,11.5,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+531,I6,QUAL,13.93,355,81.7,D,,,87,D,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+532,I6,TIAM,7.56,344,10.8,OT,,,13.2,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+533,I7,CATO,9.98,7,27.0,int2,,,28.7,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+534,I7,LIST,7.24,324,11.0,OT,,,16.7,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+535,I7,QUAL,9.71,344,26.2,int2,,,27,,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+536,I7,RHCA,11.5,16,7.6,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+537,I7,RHCA,11.3,17,5.8,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+538,I8,CATO,8.49,329,21.0,int2,,,22,INT2,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+539,I8,DIVI,5.92,324,29.8,,P,2,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+540,I8,LIST,9.67,6,6.4,int1,,,12,INT2,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+541,I9,CATO,4.55,12,24.8,CD,,,23.1,,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+542,I9,CATO,10.93,324,13.5,int2,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+543,I9,CATO,6.11,337,14.8,int2,,,16.1,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+544,I9,CATO,5.47,347,16.1,int2,,,17.2,,G,1,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+545,I9,FAGR,9.17,3,14.3,OT,,,15.2,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+546,I9,FAGR,9.42,4,18.0,int2,,,24.7,INT2,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+547,I9,FAGR,4.25,317,5.2,OT,,,9.7,OT,,,,Leaned over,"Lilly, Tegan",6/17/2025,,EEG,KF
+548,I9,NA,,,35.0,,UR,3,,,UR,4,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+549,I9,OXAR,3.93,3,9.6,OT,,,11.5,INT1,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+550,J1,DIVI,5.28,323,42.5,int2,,,43.3,INT2,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+551,J1,OXAR,8.61,350,27.1,OT,,,27.6,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+552,J10,CATO,6.23,10,17.5,OT,,,,,,,FALLEN,Snap below DBH,"Lilly, Tegan",6/17/2025,,EEG,KF
+553,J10,CATO,8.31,318,5.3,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+554,J10,FRPE,5.45,357,,,,,6.5,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+555,J10,LITU,3.46,322,76.7,CD,,,81.1,,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+556,J10,LITU,7.95,325,82.7,CD,,,90,,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+557,J10,NYSY,8.6,12,29.1,OT,,,29.1,,P,1,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+558,J2,CATO,9.89,339,46.0,CD,,,48.3,CD,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+559,J2,CECA4,1.7,18,,,,,5.1,,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+560,J2,FRPE,13.17,343,11.7,OT,,,14.1,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+561,J2,LITU,8.98,2,64.5,CD,,,68.4,CD,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+562,J2,QUAL,6.92,351,7.4,OT,,,9.3,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+563,J2,RHCA,6.3,322,5.5,OT,,,7.2,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+564,J3,CATO,8.07,340,13.5,OT,,,14.1,,G,1,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+565,J3,FRPE,7.52,8,8.6,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+566,J3,FRPE,10.57,316,8.1,OT,,,10.6,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+567,J3,LIST,6.15,339,9.5,OT,,,12.4,CD,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+568,J3,NYSY,8.35,310,30.0,int2,,,32.5,INT2,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+569,J3,OXAR,2.64,304,20.9,OT,,,23.4,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+570,J3,TIAM,9.69,318,11.8,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+571,J4,CATO,9.8,7,10.7,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+572,J4,CECA4,12.24,333,11.8,OT,,,20.1,,P,3,,Stem split open at dbh,"Lilly, Tegan",6/17/2025,,EEG,KF
+573,J4,CECA4,5.09,323,,,,,6.2,,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+574,J4,Crataegus spp.,9.78,358,5.8,OT,,,,,P,1,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+575,J4,NYSY,7.12,336,6.0,OT,,,9.4,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+576,J4,NYSY,13.26,346,7.4,OT,,,11.1,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+577,J4,PRAL7,3.68,344,6.5,OT,,,,,,1,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+578,J4,QUAL,11.03,348,6.8,OT,,,9.5,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+579,J5,FAGR,4.81,318,12.5,int1,,,14.7,INT1,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+580,J5,FAGR,5.01,319,5.9,OT,,,5.6,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+581,J5,FRPE,4.88,3,7.0,OT,,,11,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+582,J5,FRPE,12.15,329,8.0,OT,,,8.7,INT,,,,Acutally should be in J6,"Lilly, Tegan",6/17/2025,,EEG,KF
+583,J5,NA,,,37.0,,UR,4,,,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+584,J5,QURU,11.41,1,63.3,CD,,,,,UR,1,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+585,J6,CATO,11.01,340,12.0,OT,,,18.5,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+586,J6,CATO,9.65,359,20.0,OT,,,23.7,INT3,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+587,J6,CECA4,6.12,10,10.8,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+588,J6,CECA4,5.1,348,5.9,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+589,J6,FRPE,3.62,25,,,,,8.7,INT1,,,,Previously recorded on J5 in the 2015 survey,"Lilly, Tegan",6/17/2025,,EEG,KF
+590,J6,FRPE,6.26,333,11.5,OT,,,12.8,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+591,J7,COFL,10.72,320,6.1,int1,,,,,,,,Actually in quad J8,"Lilly, Tegan",6/17/2025,,EEG,KF
+592,J7,FRPE,2.87,355,7.3,OT,,,9.8,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+593,J7,OXAR,8.85,306,13.8,int1,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+594,J7,OXAR,8.8,310,8.6,OT,,,11.3,INT1,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+595,J7,QUAL,10.6,334,,,,,7.3,INT1,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+596,J7,RHCA,7.27,329,6.5,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,,
+597,J8,CATO,10.62,3,32.0,CD,,,33.4,,G,1,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+598,J8,CATO,12.06,344,27.1,CD,,,27.8,,G,1,,,"Lilly, Tegan",6/17/2025,,,
+599,J8,CECA4,3.07,19,,,,,8.1,INT1,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+600,J8,CECA4,6.65,317,,,,,7,INT1,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+601,J8,CECA4,5.69,347,,,,,6.8,INT1,,,,,,,,EEG,KF
+602,J8,COFL,10.68,1,7.0,OT,,,8.3,INT1,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+603,J8,COFL,9.28,4,,,,,7.8,OT,,,,Top out but sprouting,,,,EEG,KF
+604,J8,COFL,4.18,29,,,,,7.3,INT1,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+605,J8,COFL,12.74,355,11.0,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+606,J8,COFL,2.48,357,9.8,OT,,,,,,,FALLEN,,"Lilly, Tegan",6/17/2025,,EEG,KF
+607,J8,QUAL,9.49,3,7.4,OT,,,10.6,OT,,,,,"Lilly, Tegan",6/17/2025,,EEG,KF
+608,J8,TIAM,6.95,333,,,,,6.6,INT1,,,,,"Lilly, Tegan",6/17/2025,,,
+609,J9,CATO,8.97,322,10.0,OT,,,10.1,,G,1,,,"Lilly, Tegan",6/17/2025,,,
+610,J9,CATO,11.76,359,17.3,int2,,,18.4,INT2,,,,,"Lilly, Tegan",6/17/2025,,,
+611,J9,Crataegus spp.,7.49,5,,,,,5.7,OT,,,,,"Lilly, Tegan",6/17/2025,,,
+612,J9,QUAL,7.44,26,5.2,OT,,,5.9,OT,,,,,"Lilly, Tegan",6/17/2025,,,

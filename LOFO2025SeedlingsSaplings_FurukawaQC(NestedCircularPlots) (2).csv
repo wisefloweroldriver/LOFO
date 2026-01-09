@@ -1,0 +1,707 @@
+Plot_ID,Species,Seedlings_2025,Saplings_2025,Crew,Date,QC,1
+A1,ASTR,2,,"Emily, Lilly",7/7/2025,,6
+A1,CAGL,6,,"Emily, Lilly",7/7/2025,KF,2
+A1,DIVI5,1,,"Emily, Lilly",7/7/2025,,4
+A1,NYSY,5,,"Emily, Lilly",7/7/2025,,3
+A1,QUAL,1,,"Emily, Lilly",7/7/2025,,8
+A1,QURU,2,,"Emily, Lilly",7/7/2025,,7
+A1,QUVE,1,,"Emily, Lilly",7/7/2025,,9
+A1,SAAL5,1,,"Emily, Lilly",7/7/2025,,5
+A10,CAGL,4,,"Emily, Lilly",7/7/2025,,10
+A10,DIVI5,1,,"Emily, Lilly",7/7/2025,,12
+A10,NYSY,1,,"Emily, Lilly",7/7/2025,,13
+A10,QUAL,18,,"Emily, Lilly",7/7/2025,,11
+A10,VAAR,1,1,"Emily, Lilly",7/7/2025,,14
+A2,CAGL,6,,"Emily, Lilly",7/7/2025,,17
+A2,CATO,5,,"Emily, Lilly",7/7/2025,,18
+A2,CEOC,3,,"Emily, Lilly",7/7/2025,,15
+A2,QUAL,5,,"Emily, Lilly",7/7/2025,,19
+A2,QURU,2,,"Emily, Lilly",7/7/2025,,20
+A2,QUVE,2,,"Emily, Lilly",7/7/2025,,21
+A2,RHCA,7,,"Emily, Lilly",7/7/2025,,16
+A3,CAAM2,1,1,"Emily, Lilly",7/7/2025,,28
+A3,CAGL,7,1,"Emily, Lilly",7/7/2025,,27
+A3,CATO,4,,"Emily, Lilly",7/7/2025,,25
+A3,CEOC,5,,"Emily, Lilly",7/7/2025,,23
+A3,QUAL,22,,"Emily, Lilly",7/7/2025,,24
+A3,RHCA,2,,"Emily, Lilly",7/7/2025,,22
+A3,VAAR,,1,"Emily, Lilly",7/7/2025,,26
+A4,ACRU,1,,"Emily, Lilly",7/7/2025,,33
+A4,AEPA,3,,"Emily, Lilly",7/7/2025,,30
+A4,CAGL,3,,"Emily, Lilly",7/7/2025,,29
+A4,CATO,10,,"Emily, Lilly",7/7/2025,,32
+A4,NYSY,1,,"Emily, Lilly",7/7/2025,,36
+A4,QUAL,3,,"Emily, Lilly",7/7/2025,,34
+A4,QUVE,2,,"Emily, Lilly",7/7/2025,,31
+A4,TIAM,1,,"Emily, Lilly",7/7/2025,,35
+A5,CAGL,3,,"Emily, Lilly",7/7/2025,,38
+A5,CATO,7,,"Emily, Lilly",7/7/2025,,37
+A5,DIVI5,,1,"Emily, Lilly",7/7/2025,,42
+A5,NYSY,1,,"Emily, Lilly",7/7/2025,,40
+A5,QUAL,2,,"Emily, Lilly",7/7/2025,,41
+A5,QUVE,1,,"Emily, Lilly",7/7/2025,,39
+A6,AEPA,6,,"Emily, Lilly",7/7/2025,,46
+A6,CAGL,1,,"Emily, Lilly",7/7/2025,,48
+A6,CATO,1,,"Emily, Lilly",7/7/2025,,43
+A6,DIVI5,1,,"Emily, Lilly",7/7/2025,,44
+A6,NYSY,1,,"Emily, Lilly",7/7/2025,,45
+A6,QUVE,2,,"Emily, Lilly",7/7/2025,,47
+A7,AEPA,2,,"Emily, Lilly",7/7/2025,,54
+A7,CAGL,1,,"Emily, Lilly",7/7/2025,,53
+A7,CATO,2,,"Emily, Lilly",7/7/2025,,50
+A7,DIVI5,5,,"Emily, Lilly",7/7/2025,,51
+A7,QUAL,7,,"Emily, Lilly",7/7/2025,,49
+A7,QUVE,1,,"Emily, Lilly",7/7/2025,,52
+A8,AEPA,1,,"Emily, Lilly",7/7/2025,,61
+A8,CAGL,4,,"Emily, Lilly",7/7/2025,,57
+A8,CATO,1,,"Emily, Lilly",7/7/2025,,59
+A8,DIVI5,4,,"Emily, Lilly",7/7/2025,,60
+A8,PRAL7,1,,"Emily, Lilly",7/7/2025,,58
+A8,QUAL,10,,"Emily, Lilly",7/7/2025,,56
+A8,QUVE,7,,"Emily, Lilly",7/7/2025,,55
+A9,CAGL,3,,"Emily, Lilly",7/7/2025,,63
+A9,Crataegus spp.,1,,"Emily, Lilly",7/7/2025,,65
+A9,DIVI5,4,1,"Emily, Lilly",7/7/2025,,64
+A9,QUAL,7,2,"Emily, Lilly",7/7/2025,,62
+B1,AEPA,2,,"Emily, Lilly",6/19/2025,,66
+B1,CAAM2,1,1,"Emily, Lilly",6/19/2025,,72
+B1,CAGL,8,,"Emily, Lilly",6/19/2025,,67
+B1,CEOC,2,,"Emily, Lilly",6/19/2025,,69
+B1,NYSY,,1,"Emily, Lilly",6/19/2025,,75
+B1,PRAL7,3,,"Emily, Lilly",6/19/2025,,70
+B1,QUAL,3,,"Emily, Lilly",6/19/2025,,73
+B1,QUVE,6,,"Emily, Lilly",6/19/2025,,68
+B1,RHCA,2,3,"Emily, Lilly",6/19/2025,,71
+B1,TIAM,2,,"Emily, Lilly",6/19/2025,,74
+B10,CAAM2,1,,"Emily, Lucy",6/18/2025,,78
+B10,CAGL,1,,"Emily, Lucy",6/18/2025,,79
+B10,CECA4,1,,"Emily, Lucy",6/18/2025,,76
+B10,DIVI5,1,,"Emily, Lucy",6/18/2025,,80
+B10,QUAL,22,,"Emily, Lucy",6/18/2025,,77
+B10,QUVE,3,,"Emily, Lucy",6/18/2025,,81
+B10,RHCA,1,,"Emily, Lucy",6/18/2025,,82
+B2,CAAM2,3,3,"Lilly, Emily",6/19/2025,,83
+B2,CAAM2,2,,"Lilly, Emily",6/19/2025,,89
+B2,CAGL,14,,"Lilly, Emily",6/19/2025,,84
+B2,CEOC,1,,"Lilly, Emily",6/19/2025,,87
+B2,DIVI5,1,,"Lilly, Emily",6/19/2025,,90
+B2,QUAL,7,,"Lilly, Emily",6/19/2025,,85
+B2,QUVE,2,,"Lilly, Emily",6/19/2025,,86
+B2,QUVE,1,,"Lilly, Emily",6/19/2025,,88
+B3,CAGL,5,,"Lilly, Emily",6/19/2025,,91
+B3,CATO,2,,"Lilly, Emily",6/19/2025,,92
+B3,CEOC,3,,"Lilly, Emily",6/19/2025,,96
+B3,DIVI5,3,,"Lilly, Emily",6/19/2025,,94
+B3,NYSY,1,,"Lilly, Emily",6/19/2025,,93
+B3,QUAL,11,,"Lilly, Emily",6/19/2025,,95
+B3,RHCA,2,2,"Lilly, Emily",6/19/2025,,97
+B4,AEPA,1,,"Lilly, Emily",6/19/2025,,104
+B4,CAAM2,2,,"Lilly, Emily",6/19/2025,,99
+B4,CAGL,3,,"Lilly, Emily",6/19/2025,,101
+B4,CATO,8,,"Lilly, Emily",6/19/2025,,98
+B4,CEOC,2,,"Lilly, Emily",6/19/2025,,102
+B4,QUAL,2,,"Lilly, Emily",6/19/2025,,100
+B4,RHCA,2,1,"Lilly, Emily",6/19/2025,,103
+B4,TIAM,1,,"Lilly, Emily",6/19/2025,,105
+B5,CAFL22,1,,"Lilly, Emily",6/19/2025,,112
+B5,CAGL,1,,"Lilly, Emily",6/19/2025,,114
+B5,CATO,3,,"Lilly, Emily",6/19/2025,,108
+B5,CEOC,2,,"Lilly, Emily",6/19/2025,,110
+B5,DIVI5,3,,"Lilly, Emily",6/19/2025,,113
+B5,NYSY,1,,"Lilly, Emily",6/19/2025,,109
+B5,QUAL,1,,"Lilly, Emily",6/19/2025,,111
+B5,QUVE,1,,"Lilly, Emily",6/19/2025,,107
+B5,RHCA,5,2,"Lilly, Emily",6/19/2025,,106
+B6,AEPA,2,,"Lilly, Emily",6/19/2025,,116
+B6,AEPA,1,,"Lilly, Emily",6/19/2025,,124
+B6,CAFL22,2,,"Lilly, Emily",6/19/2025,,119
+B6,CAGL,4,,"Lilly, Emily",6/19/2025,,115
+B6,CATO,2,,"Lilly, Emily",6/19/2025,,121
+B6,CEOC,2,,"Lilly, Emily",6/19/2025,,117
+B6,DIVI5,1,,"Lilly, Emily",6/19/2025,,123
+B6,NYSY,1,,"Lilly, Emily",6/19/2025,,118
+B6,QURU,1,,"Lilly, Emily",6/19/2025,,120
+B6,QUVE,1,,"Lilly, Emily",6/19/2025,,122
+B7,AEPA,4,,"Lilly, Emily",6/19/2025,,131
+B7,ASTR,2,,"Lilly, Emily",6/19/2025,,134
+B7,CAGL,2,,"Lilly, Emily",6/19/2025,,132
+B7,CATO,1,,"Lilly, Emily",6/19/2025,,130
+B7,CEOC,1,,"Lilly, Emily",6/19/2025,,129
+B7,NYSY,3,,"Lilly, Emily",6/19/2025,,133
+B7,NYSY,1,,"Lilly, Emily",6/19/2025,,126
+B7,QUAL,23,,"Lilly, Emily",6/19/2025,,127
+B7,QURU,1,,"Lilly, Emily",6/19/2025,,125
+B7,QUVE,2,,"Lilly, Emily",6/19/2025,,128
+B8,CAGL,1,,"Lilly, Emily",6/19/2025,,136
+B8,CATO,1,,"Lilly, Emily",6/19/2025,,137
+B8,FRPE,2,,"Lilly, Emily",6/19/2025,,139
+B8,QUAL,29,,"Lilly, Emily",6/19/2025,,135
+B8,QUFA,1,,"Lilly, Emily",6/19/2025,,138
+B9,CAGL,2,,"Emily, Lucy",6/18/2025,,147
+B9,CATO,2,,"Emily, Lucy",6/18/2025,,140
+B9,NYSY,1,,"Emily, Lucy",6/18/2025,,144
+B9,PRAL7,1,,"Emily, Lucy",6/18/2025,,145
+B9,QUAL,13,,"Emily, Lucy",6/18/2025,,141
+B9,QUVE,3,,"Emily, Lucy",6/18/2025,,146
+B9,RHCA,3,1,"Emily, Lucy",6/18/2025,,142
+B9,VAAR,4,,"Emily, Lucy",6/18/2025,,148
+B9,VIAC,1,,"Emily, Lucy",6/18/2025,,143
+C1,ASTR,1,,"Lilly, Emily",6/19/2025,,149
+C1,CAAM2,3,,"Lilly, Emily",6/19/2025,,154
+C1,CAGL,5,,"Lilly, Emily",6/19/2025,,153
+C1,CEOC,1,,"Lilly, Emily",6/19/2025,,156
+C1,DIVI5,1,,"Lilly, Emily",6/19/2025,,151
+C1,HATE3,2,,"Lilly, Emily",6/19/2025,,159
+C1,PRAL7,1,,"Lilly, Emily",6/19/2025,,157
+C1,QUAL,2,,"Lilly, Emily",6/19/2025,,152
+C1,QUVE,2,,"Lilly, Emily",6/19/2025,,150
+C1,RHCA,6,1,"Lilly, Emily",6/19/2025,,155
+C1,TIAM,1,,"Lilly, Emily",6/19/2025,,158
+C10,ACRU,3,,"Lilly, Emily",6/19/2025,,160
+C10,CAGL,6,,"Lilly, Emily",6/19/2025,,161
+C10,NYSY,2,,"Lilly, Emily",6/19/2025,,163
+C10,QUAL,21,,"Lilly, Emily",6/19/2025,,162
+C10,QUVE,1,,"Lilly, Emily",6/19/2025,,164
+C2,CAAM2,2,,"Emily, Lilly",6/19/2025,,170
+C2,CAGL,5,,"Emily, Lilly",6/19/2025,,166
+C2,CEOC,2,,"Emily, Lilly",6/19/2025,,168
+C2,DIVI5,1,,"Emily, Lilly",6/19/2025,,167
+C2,QUAL,12,,"Lilly, Emily",6/19/2025,,165
+C2,QUVE,1,,"Emily, Lilly",6/19/2025,,169
+C3,CAGL,7,,"Emily, Lilly",6/19/2025,,172
+C3,CEOC,1,,"Emily, Lilly",6/19/2025,,176
+C3,DIVI5,2,,"Emily, Lilly",6/19/2025,,171
+C3,PRAL7,1,,"Emily, Lilly",6/19/2025,,177
+C3,QUAL,10,,"Emily, Lilly",6/19/2025,,174
+C3,QUVE,1,,"Emily, Lilly",6/19/2025,,175
+C3,RHCA,8,,"Emily, Lilly",6/19/2025,,173
+C4,CAGL,12,,"Emily, Lilly",6/27/2025,,179
+C4,CATO,2,,"Emily, Lilly",6/27/2025,,178
+C4,DIVI5,3,,"Emily, Lilly",6/27/2025,,181
+C4,QUAL,12,,"Emily, Lilly",6/27/2025,,180
+C4,RHCA,0,2,"Emily, Lilly",6/27/2025,,182
+C5,AEPA,1,,"Emily, Lilly",6/27/2025,,186
+C5,CAGL,4,,"Emily, Lilly",6/27/2025,,185
+C5,CATO,4,,"Emily, Lilly",6/27/2025,,184
+C5,NYSY,1,,"Emily, Lilly",6/27/2025,,188
+C5,PRAL7,1,,"Emily, Lilly",6/27/2025,,189
+C5,QUAL,20,,"Emily, Lilly",6/27/2025,,183
+C5,RHCA,3,,"Emily, Lilly",6/27/2025,,187
+C6,CAGL,5,,"Emily, Lilly",6/27/2025,,192
+C6,CATO,1,,"Emily, Lilly",6/27/2025,,191
+C6,QUAL,47,1,"Emily, Lilly",6/27/2025,,190
+C6,QUVE,1,,"Emily, Lilly",6/27/2025,,194
+C6,RHCA,5,,"Emily, Lilly",6/27/2025,,193
+C7,ACRU,1,,"Emily, Lilly",6/27/2025,,202
+C7,CAGL,2,,"Emily, Lilly",6/27/2025,,199
+C7,CATO,1,,"Emily, Lilly",6/27/2025,,196
+C7,DIVI5,1,,"Emily, Lilly",6/27/2025,,195
+C7,LIST2,1,,"Emily, Lilly",6/27/2025,,201
+C7,NYSY,3,,"Emily, Lilly",6/27/2025,,197
+C7,QUAL,29,,"Emily, Lilly",6/27/2025,,198
+C7,QUVE,3,,"Emily, Lilly",6/27/2025,,200
+C8,AEPA,3,,"Emily, Lilly",6/27/2025,,207
+C8,CAFL22,1,,"Emily, Lilly",6/27/2025,,211
+C8,CAGL,2,,"Emily, Lilly",6/27/2025,,209
+C8,CATO,1,,"Emily, Lilly",6/27/2025,,213
+C8,CEOC,1,,"Emily, Lilly",6/27/2025,,206
+C8,DIVI5,1,,"Emily, Lilly",6/27/2025,,210
+C8,NYSY,2,,"Emily, Lilly",6/27/2025,,203
+C8,QUAL,7,,"Emily, Lilly",6/27/2025,,204
+C8,QUVE,2,,"Emily, Lilly",6/27/2025,,208
+C8,RHCA,1,,"Emily, Lilly",6/27/2025,,212
+C8,SAAL5,1,,"Emily, Lilly",6/27/2025,,205
+C9,ACRU,1,,"Emily, Lilly",6/27/2025,,223
+C9,AEPA,1,,"Emily, Lilly",6/27/2025,,221
+C9,CAGL,5,,"Emily, Lilly",6/27/2025,,217
+C9,CAGL,1,,"Emily, Lilly",6/27/2025,,220
+C9,Crataegus spp.,0,3,"Emily, Lilly",6/27/2025,,214
+C9,NYSY,12,,"Emily, Lilly",6/27/2025,,216
+C9,QUAL,15,1,"Emily, Lilly",6/27/2025,,215
+C9,QURU,1,,"Emily, Lilly",6/27/2025,,219
+C9,QUVE,1,,"Emily, Lilly",6/27/2025,,222
+C9,RHCA,1,,"Emily, Lilly",6/27/2025,,218
+D1,CAFL22,3,,,,,224
+D1,CAGL,5,,,,,227
+D1,CEOC,9,,,,,225
+D1,MORU2,3,,,,,228
+D1,QUAL,5,,,,,226
+D10,CAGL,4,,"Emily, Lilly",6/27/2025,,233
+D10,CATO,2,,"Emily, Lilly",6/27/2025,,231
+D10,NYSY,9,,"Emily, Lilly",6/27/2025,,232
+D10,QUAL,29,,"Emily, Lilly",6/27/2025,,230
+D10,RHCA,1,1,"Emily, Lilly",6/27/2025,,229
+D2,ASTR,9,,,,,237
+D2,CAFL22,1,,,,,235
+D2,CAGL,1,,,,,240
+D2,CEOC,1,,,,,238
+D2,HATE3,15,,,,,234
+D2,OXAR,6,3,,,,239
+D2,RHCA,15,,,,,236
+D3,CAGL,16,,,,,242
+D3,CEOC,2,,,,,241
+D3,Crataegus spp.,1,,,,,246
+D3,DIVI5,1,,,,,244
+D3,QUAL,28,,,,,243
+D3,RHCA,2,,,,,245
+D3,TIAM,1,,,,,247
+D4,CAGL,7,,,,,249
+D4,CATO,1,,,,,250
+D4,DIVI5,1,,,,,251
+D4,QUAL,39,,,,,248
+D4,QURU,1,,,,,252
+D5,ASTR,1,,,,,253
+D5,CAGL,1,,,,,256
+D5,CATO,2,,,,,255
+D5,DIVI5,1,,,,,258
+D5,NYSY,1,,,,,257
+D5,QUAL,33,,,,,254
+D6,CAGL,1,,,,,260
+D6,CATO,1,,,,,261
+D6,DIVI5,2,,,,,263
+D6,PRAL7,2,,,,,262
+D6,PRUM,2,,,,,264
+D6,QUAL,22,,,,,259
+D7,ACRU,1,,,,,272
+D7,AEPA,2,,,,,267
+D7,CAFL22,4,,,,,271
+D7,CAGL,1,,,,,269
+D7,PRAL7,1,,,,,268
+D7,QUAL,63,,,,,266
+D7,QURU,1,,,,,270
+D7,QUVE,1,,,,,265
+D8,ASTR,1,,"Emily, Lilly",6/27/2025,,278
+D8,CAGL,4,,"Emily, Lilly",6/27/2025,,274
+D8,CATO,1,,"Emily, Lilly",6/27/2025,,279
+D8,CEOC,3,,"Emily, Lilly",6/27/2025,,276
+D8,NYSY,1,,"Emily, Lilly",6/27/2025,,277
+D8,QUAL,11,,"Emily, Lilly",6/27/2025,,273
+D8,RHCA,2,,"Emily, Lilly",6/27/2025,,275
+D9,AEPA,5,,"Emily, Lilly",6/27/2025,,281
+D9,CAGL,1,,"Emily, Lilly",6/27/2025,,282
+D9,FRPE,1,,"Emily, Lilly",6/27/2025,,285
+D9,NYSY,1,,"Emily, Lilly",6/27/2025,,284
+D9,PRUM,1,,"Emily, Lilly",6/27/2025,,286
+D9,QUAL,26,,"Emily, Lilly",6/27/2025,,280
+D9,QUVE,1,,"Emily, Lilly",6/27/2025,,283
+E1,ASTR,2,,,,,291
+E1,CAGL,1,,,,,292
+E1,CATO,3,,,,,293
+E1,CEOC,2,,,,,290
+E1,HATE3,19,,,,,288
+E1,LIST2,1,,,,,287
+E1,QUAL,4,,,,,289
+E10,AEPA,2,,"Emily,Tegan",6/27/2025,,296
+E10,CAAM2,1,,"Emily,Tegan",6/27/2025,,298
+E10,CAGL,3,,"Emily,Tegan",6/27/2025,,297
+E10,CATO,1,,"Emily,Tegan",6/27/2025,,299
+E10,CECA4,1,,"Emily,Tegan",6/27/2025,,295
+E10,Crataegus spp.,1,,"Emily,Tegan",6/27/2025,,300
+E10,QUAL,11,,"Emily,Tegan",6/27/2025,,294
+E2,CAAM2,1,,,,,306
+E2,CAGL,1,,,,,307
+E2,CEOC,1,,,,,302
+E2,DIVI5,2,,,,,304
+E2,HATE3,41,,,,,303
+E2,MORU2,1,,,,,305
+E2,RHCA,25,,,,,301
+E3,CAFL22,2,,,,,308
+E3,CAGL,3,,,,,313
+E3,CEOC,1,,,,,314
+E3,DIVI5,3,,,,,311
+E3,NYSY,1,,,,,312
+E3,QUAL,8,,,,,309
+E3,RHCA,19,,,,,310
+E4,CAGL,11,,,,,315
+E4,CATO,1,,,,,319
+E4,CEOC,0,1,,,,318
+E4,QUAL,6,,,,,317
+E4,QUVE,3,,,,,316
+E5,AEPA,1,,"Emily,Tegan",6/27/2025,,323
+E5,CAAM2,1,,"Emily,Tegan",6/27/2025,,326
+E5,CAGL,6,,"Emily,Tegan",6/27/2025,,321
+E5,DIVI5,1,,"Emily,Tegan",6/27/2025,,325
+E5,QUAL,19,,"Emily,Tegan",6/27/2025,,322
+E5,QUVE,1,,"Emily,Tegan",6/27/2025,,320
+E5,SAAL5,4,,"Emily,Tegan",6/27/2025,,324
+E6,CAGL,4,,"Emily,Tegan",6/27/2025,,327
+E6,CEOC,0,1,"Emily,Tegan",6/27/2025,,329
+E6,QUAL,25,,"Emily,Tegan",6/27/2025,,328
+E7,ASTR,1,,"Emily,Tegan",6/27/2025,,335
+E7,CAGL,3,,"Emily,Tegan",6/27/2025,,332
+E7,CEOC,1,,"Emily,Tegan",6/27/2025,,333
+E7,DIVI5,0,1,"Emily,Tegan",6/27/2025,,336
+E7,NYSY,2,,"Emily,Tegan",6/27/2025,,334
+E7,QUAL,34,,"Emily,Tegan",6/27/2025,,331
+E7,QUVE,2,,"Emily,Tegan",6/27/2025,,330
+E8,ASTR,1,,"Emily,Tegan",6/27/2025,,341
+E8,CAFL22,1,,"Emily,Tegan",6/27/2025,,342
+E8,CAGL,2,,"Emily,Tegan",6/27/2025,,339
+E8,DIVI5,5,,"Emily,Tegan",6/27/2025,,340
+E8,QUAL,11,,"Emily,Tegan",6/27/2025,,337
+E8,QUVE,1,,"Emily,Tegan",6/27/2025,,338
+E9,CAAM2,3,,"Emily,Tegan",6/27/2025,,346
+E9,CAGL,2,,"Emily,Tegan",6/27/2025,,345
+E9,CEOC,1,,"Emily,Tegan",6/27/2025,,350
+E9,DIVI5,1,,"Emily,Tegan",6/27/2025,,347
+E9,NYSY,1,,"Emily,Tegan",6/27/2025,,349
+E9,QUAL,36,,"Emily,Tegan",6/27/2025,,343
+E9,QUVE,2,,"Emily,Tegan",6/27/2025,,348
+E9,RHCA,1,,"Emily,Tegan",6/27/2025,,344
+F1,ACRU,1,,"Lucy,Lilly",6/27/2025,,356
+F1,CAAM2,2,,"Lucy,Lilly",6/27/2025,,353
+F1,CAGL,1,,"Lucy,Lilly",6/27/2025,,358
+F1,CATO,1,,"Lucy,Lilly",6/27/2025,,357
+F1,CEOC,2,,"Lucy,Lilly",6/27/2025,,359
+F1,CHVI3,2,,"Lucy,Lilly",6/27/2025,,351
+F1,HATE3,23,,"Lucy,Lilly",6/27/2025,,352
+F1,QUAL,3,,"Lucy,Lilly",6/27/2025,,354
+F1,QUVE,2,,"Lucy,Lilly",6/27/2025,,355
+F10,ACRU,1,,"Emily,Tegan",6/27/2025,,365
+F10,AEPA,2,,"Emily,Tegan",6/27/2025,,360
+F10,CAFL22,1,,"Emily,Tegan",6/27/2025,,364
+F10,CAGL,3,,"Emily,Tegan",6/27/2025,,362
+F10,HAVI,9,,"Emily,Tegan",6/27/2025,,363
+F10,PRAL7,1,,"Emily,Tegan",6/27/2025,,366
+F10,QUAL,16,,"Emily,Tegan",6/27/2025,,361
+F2,ACRU,1,,"Lucy,Lilly",6/27/2025,,370
+F2,CAGL,4,,"Lucy,Lilly",6/27/2025,,369
+F2,CEOC,2,,"Lucy,Lilly",6/27/2025,,368
+F2,HATE3,50,,"Lucy,Lilly",6/27/2025,,367
+F2,QUAL,4,,"Lucy,Lilly",6/27/2025,,372
+F2,QUVE,2,,"Lucy,Lilly",6/27/2025,,371
+F2,RHCA,0,1,"Lucy,Lilly",6/27/2025,,373
+F3,CAGL,1,,"Lucy,Lilly",6/27/2025,,381
+F3,CEOC,2,1,"Lucy,Lilly",6/27/2025,,378
+F3,CHVI3,1,,"Lucy,Lilly",6/27/2025,,382
+F3,DIVI5,1,,"Lucy,Lilly",6/27/2025,,375
+F3,HATE3,27,6,"Lucy,Lilly",6/27/2025,,374
+F3,LITU,0,1,"Lucy,Lilly",6/27/2025,,379
+F3,QUAL,5,,"Lucy,Lilly",6/27/2025,,377
+F3,QUVE,1,,"Lucy,Lilly",6/27/2025,,376
+F3,TIAM,1,,"Lucy,Lilly",6/27/2025,,380
+F4,AEPA,2,,"Lucy,Lilly",6/27/2025,,383
+F4,CAGL,2,,"Lucy,Lilly",6/27/2025,,386
+F4,CEOC,1,,"Lucy,Lilly",6/27/2025,,387
+F4,HATE3,1,,"Lucy,Lilly",6/27/2025,,385
+F4,NYSY,1,,"Lucy,Lilly",6/27/2025,,388
+F4,QUAL,3,,"Lucy,Lilly",6/27/2025,,384
+F5,CAGL,2,,"Lucy,Lilly",6/27/2025,,389
+F5,CEOC,2,,"Lucy,Lilly",6/27/2025,,391
+F5,QUAL,3,,"Lucy,Lilly",6/27/2025,,390
+F5,TIAM,1,,"Lucy,Lilly",6/27/2025,,392
+F6,ASTR,3,,"Lucy,Lilly",6/27/2025,,398
+F6,CAGL,4,,"Lucy,Lilly",6/27/2025,,394
+F6,CATO,2,,"Lucy,Lilly",6/27/2025,,393
+F6,HYAR,5,,"Lucy,Lilly",6/27/2025,,397
+F6,NYSY,3,,"Lucy,Lilly",6/27/2025,,395
+F6,QUAL,6,,"Lucy,Lilly",6/27/2025,,396
+F7,ASTR,1,,"Lucy,Lilly",6/27/2025,,402
+F7,DIVI5,0,2,"Lucy,Lilly",6/27/2025,,399
+F7,HYAR,2,,"Lucy,Lilly",6/27/2025,,400
+F7,NYSY,1,,"Lucy,Lilly",6/27/2025,,403
+F7,QUAL,5,,"Lucy,Lilly",6/27/2025,,401
+F8,CAAM2,1,,"Emily,Tegan",6/27/2025,,407
+F8,QUAL,1,,"Emily,Tegan",6/27/2025,,406
+F8,QUVE,2,,"Emily,Tegan",6/27/2025,,405
+F8,RHCA,5,,"Emily,Tegan",6/27/2025,,404
+F9,CAFL22,1,,"Emily,Tegan",6/27/2025,,413
+F9,CAGL,2,,"Emily,Tegan",6/27/2025,,409
+F9,CEOC,1,,"Emily,Tegan",6/27/2025,,411
+F9,NYSY,2,,"Emily,Tegan",6/27/2025,,412
+F9,QUAL,18,,"Emily,Tegan",6/27/2025,,408
+F9,TIAM,2,,"Emily,Tegan",6/27/2025,,410
+G1,CAGL,2,,"Lucy,Lilly",6/27/2025,,417
+G1,CECA4,1,,"Lucy,Lilly",6/27/2025,,414
+G1,DIVI5,1,,"Lucy,Lilly",6/27/2025,,415
+G1,HATE3,12,,"Lucy,Lilly",6/27/2025,,416
+G1,LIST2,1,,"Lucy,Lilly",6/27/2025,,418
+G1,NYSY,1,,"Lucy,Lilly",6/27/2025,,419
+G1,QUAL,1,,"Lucy,Lilly",6/27/2025,,420
+G10,CAGL,3,,"Emily,Tegan",6/27/2025,,425
+G10,CATO,2,,"Emily,Tegan",6/27/2025,,421
+G10,DIVI5,1,,"Emily,Tegan",6/27/2025,,428
+G10,HAVI,20,,"Emily,Tegan",6/27/2025,,422
+G10,NYSY,,,"Emily,Tegan",6/27/2025,,427
+G10,QUAL,16,,"Emily,Tegan",6/27/2025,,423
+G10,QUVE,1,,"Emily,Tegan",6/27/2025,,426
+G10,SAAL5,1,,"Emily,Tegan",6/27/2025,,429
+G10,TIAM,1,,"Emily,Tegan",6/27/2025,,424
+G2,CAGL,2,,"Lucy,Lilly",6/27/2025,,437
+G2,CATO,2,,"Lucy,Lilly",6/27/2025,,436
+G2,CEOC,1,,"Lucy,Lilly",6/27/2025,,434
+G2,DIVI5,1,,"Lucy,Lilly",6/27/2025,,431
+G2,HATE3,48,5,"Lucy,Lilly",6/27/2025,,430
+G2,LIST2,2,,"Lucy,Lilly",6/27/2025,,435
+G2,PRAL7,1,,"Lucy,Lilly",6/27/2025,,432
+G2,QUAL,12,,"Lucy,Lilly",6/27/2025,,433
+G3,ACRU,1,,"Lucy,Lilly",6/27/2025,,446
+G3,CAFL22,1,,"Lucy,Lilly",6/27/2025,,444
+G3,CAGL,1,,"Lucy,Lilly",6/27/2025,,443
+G3,CATO,1,,"Lucy,Lilly",6/27/2025,,445
+G3,CEOC,1,,"Lucy,Lilly",6/27/2025,,440
+G3,HATE3,17,8,"Lucy,Lilly",6/27/2025,,438
+G3,HYAR,4,,"Lucy,Lilly",6/27/2025,,442
+G3,QUAL,12,,"Lucy,Lilly",6/27/2025,,439
+G3,QUVE,1,,"Lucy,Lilly",6/27/2025,,441
+G4,CAFL22,1,,"Emily,Tegan",6/27/2025,,451
+G4,CAGL,1,,"Emily,Tegan",6/27/2025,,454
+G4,CATO,1,,"Emily,Tegan",6/27/2025,,453
+G4,CEOC,2,,"Emily,Tegan",6/27/2025,,448
+G4,FAGR,1,,"Emily,Tegan",6/27/2025,,452
+G4,HATE3,10,6,"Emily,Tegan",6/27/2025,,447
+G4,HYAR,6,,"Emily,Tegan",6/27/2025,,450
+G4,TIAM,4,,"Emily,Tegan",6/27/2025,,449
+G5,CAGL,1,,"Emily,Tegan",6/27/2025,,457
+G5,CECA4,1,,"Emily,Tegan",6/27/2025,,456
+G5,CEOC,1,,"Emily,Tegan",6/27/2025,,461
+G5,DIVI5,1,,"Emily,Tegan",6/27/2025,,459
+G5,HYAR,5,,"Emily,Tegan",6/27/2025,,458
+G5,NYSY,1,,"Emily,Tegan",6/27/2025,,462
+G5,PRAL7,1,,"Emily,Tegan",6/27/2025,,463
+G5,TIAM,1,,"Emily,Tegan",6/27/2025,,460
+G5,VIAC,1,,"Emily,Tegan",6/27/2025,,455
+G6,CEOC,3,,"Emily,Tegan",6/27/2025,,469
+G6,DIVI5,2,,"Emily,Tegan",6/27/2025,,464
+G6,FRPE,3,,"Emily,Tegan",6/27/2025,,465
+G6,HATE3,1,,"Emily,Tegan",6/27/2025,,471
+G6,HYAR,9,,"Emily,Tegan",6/27/2025,,466
+G6,QUAL,1,,"Emily,Tegan",6/27/2025,,467
+G6,QUAL,1,,"Emily,Tegan",6/27/2025,,470
+G6,RHCA,0,1,"Emily,Tegan",6/27/2025,,468
+G7,CAGL,1,,"Emily,Tegan",6/27/2025,,478
+G7,CEOC,3,2,"Emily,Tegan",6/27/2025,,472
+G7,CEOC,1,,"Emily,Tegan",6/27/2025,,476
+G7,DIVI5,2,,"Emily,Tegan",6/27/2025,,475
+G7,HATE3,1,,"Emily,Tegan",6/27/2025,,473
+G7,QUAL,4,,"Emily,Tegan",6/27/2025,,474
+G7,QUAL,1,,"Emily,Tegan",6/27/2025,,477
+G8,CAFL22,1,,"Emily,Tegan",6/27/2025,,486
+G8,CEOC,2,1,"Emily,Tegan",6/27/2025,,479
+G8,PRUM,2,,"Emily,Tegan",6/27/2025,,485
+G8,QUAL,4,,"Emily,Tegan",6/27/2025,,483
+G8,QURU,1,,"Emily,Tegan",6/27/2025,,484
+G8,QUVE,3,,"Emily,Tegan",6/27/2025,,482
+G8,RHCA,0,1,"Emily,Tegan",6/27/2025,,480
+G8,TIAM,4,,"Emily,Tegan",6/27/2025,,481
+G9,CAGL,7,,"Emily,Tegan",6/27/2025,,490
+G9,CATO,1,,"Emily,Tegan",6/27/2025,,495
+G9,CECA4,1,,"Emily,Tegan",6/27/2025,,488
+G9,CEOC,1,,"Emily,Tegan",6/27/2025,,493
+G9,FRPE,1,,"Emily,Tegan",6/27/2025,,494
+G9,HAVI,10,,"Emily,Tegan",6/27/2025,,491
+G9,QUAL,4,,"Emily,Tegan",6/27/2025,,492
+G9,QUVE,2,2,"Emily,Tegan",6/27/2025,,487
+G9,VIAC,42,,"Emily,Tegan",6/27/2025,,489
+H1,CAGL,2,,"Emily,Tegan",6/27/2025,,499
+H1,CATO,1,,"Emily,Tegan",6/27/2025,,502
+H1,CEOC,3,,"Emily,Tegan",6/27/2025,,505
+H1,Crataegus spp.,1,,"Emily,Tegan",6/27/2025,,498
+H1,DIVI5,2,,"Emily,Tegan",6/27/2025,,500
+H1,HATE3,7,,"Emily,Tegan",6/27/2025,,497
+H1,LIST2,0,1,"Emily,Tegan",6/27/2025,,506
+H1,NYSY,0,1,"Emily,Tegan",6/27/2025,,501
+H1,QUAL,10,,"Emily,Tegan",6/27/2025,,504
+H1,QUAL,1,,"Emily,Tegan",6/27/2025,,496
+H1,QUVE,3,,"Emily,Tegan",6/27/2025,,503
+H10,ASTR,1,,"Emily, Lilly",6/30/2025,,510
+H10,CAGL,3,,"Emily, Lilly",6/30/2025,,511
+H10,CATO,3,,"Emily, Lilly",6/30/2025,,508
+H10,CECA4,1,,"Emily, Lilly",6/30/2025,,509
+H10,CEOC,1,,"Emily, Lilly",6/30/2025,,512
+H10,HAVI,6,7,"Emily, Lilly",6/30/2025,,513
+H10,QUAL,34,,"Emily, Lilly",6/30/2025,,507
+H2,ASTR,1,,"Emily,Tegan",6/27/2025,,520
+H2,CAAM2,1,,"Emily,Tegan",6/27/2025,,517
+H2,CAGL,2,,"Emily,Tegan",6/27/2025,,519
+H2,CATO,2,,"Emily,Tegan",6/27/2025,,521
+H2,CEOC,1,1,"Emily,Tegan",6/27/2025,,518
+H2,DIVI5,3,,"Emily,Tegan",6/27/2025,,514
+H2,HATE3,12,5,"Emily,Tegan",6/27/2025,,515
+H2,HYAR,1,,"Emily,Tegan",6/27/2025,,516
+H2,QUAL,2,,"Emily,Tegan",6/27/2025,,522
+H3,AEPA,1,,"Emily,Tegan",6/27/2025,,531
+H3,CAAM2,9,1,"Emily,Tegan",6/27/2025,,525
+H3,CAGL,2,,"Emily,Tegan",6/27/2025,,526
+H3,CATO,1,,"Emily,Tegan",6/27/2025,,533
+H3,CECA4,3,,"Emily,Tegan",6/27/2025,,523
+H3,CEOC,1,,"Emily,Tegan",6/27/2025,,532
+H3,HATE3,20,4,"Emily,Tegan",6/27/2025,,524
+H3,HYAR,2,,"Emily,Tegan",6/27/2025,,530
+H3,QUAL,2,,"Emily,Tegan",6/27/2025,,527
+H3,SAAL5,1,,"Emily,Tegan",6/27/2025,,528
+H3,TIAM,0,2,"Emily,Tegan",6/27/2025,,529
+H4,CAGL,4,,"Emily, Lilly",6/30/2025,,539
+H4,CECA4,1,,"Emily, Lilly",6/30/2025,,541
+H4,CEOC,9,,"Emily, Lilly",6/30/2025,,535
+H4,HATE3,16,11,"Emily, Lilly",6/30/2025,,534
+H4,HYAR,6,,"Emily, Lilly",6/30/2025,,537
+H4,NYSY,1,,"Emily, Lilly",6/30/2025,,536
+H4,QUAL,3,,"Emily, Lilly",6/30/2025,,540
+H4,TIAM,2,,"Emily, Lilly",6/30/2025,,538
+H5,ASTR,3,,"Emily, Lilly",6/30/2025,,544
+H5,CAGL,2,,"Emily, Lilly",6/30/2025,,543
+H5,CATO,1,,"Emily, Lilly",6/30/2025,,548
+H5,DIVI5,1,,"Emily, Lilly",6/30/2025,,549
+H5,HATE3,5,,"Emily, Lilly",6/30/2025,,542
+H5,HYAR,4,,"Emily, Lilly",6/30/2025,,545
+H5,QUAL,1,,"Emily, Lilly",6/30/2025,,547
+H5,VIAC,1,,"Emily, Lilly",6/30/2025,,546
+H6,AEPA,2,,"Emily, Lilly",6/30/2025,,552
+H6,CAFL22,1,,"Emily, Lilly",6/30/2025,,554
+H6,CAGL,2,,"Emily, Lilly",6/30/2025,,551
+H6,DIVI5,2,,"Emily, Lilly",6/30/2025,,556
+H6,HATE3,16,,"Emily, Lilly",6/30/2025,,550
+H6,HYAR,2,,"Emily, Lilly",6/30/2025,,555
+H6,QUAL,3,,"Emily, Lilly",6/30/2025,,553
+H7,ASTR,4,,"Emily, Lilly",6/30/2025,,560
+H7,CAGL,6,,"Emily, Lilly",6/30/2025,,557
+H7,DIVI5,1,,"Emily, Lilly",6/30/2025,,562
+H7,HATE3,23,7,"Emily, Lilly",6/30/2025,,558
+H7,HYAR,5,,"Emily, Lilly",6/30/2025,,561
+H7,QUAL,5,,"Emily, Lilly",6/30/2025,,559
+H8,ASTR,1,,"Emily, Lilly",6/30/2025,,567
+H8,CATO,1,,"Emily, Lilly",6/30/2025,,565
+H8,CEOC,1,,"Emily, Lilly",6/30/2025,,569
+H8,DIVI5,0,1,"Emily, Lilly",6/30/2025,,566
+H8,HATE3,4,3,"Emily, Lilly",6/30/2025,,564
+H8,QUAL,1,,"Emily, Lilly",6/30/2025,,568
+H8,TIAM,2,,"Emily, Lilly",6/30/2025,,563
+H9,ACRU,1,,"Emily, Lilly",6/30/2025,,576
+H9,AEPA,1,,"Emily, Lilly",6/30/2025,,575
+H9,CAGL,4,,"Emily, Lilly",6/30/2025,,570
+H9,CECA4,0,2,"Emily, Lilly",6/30/2025,,573
+H9,QUAL,5,,"Emily, Lilly",6/30/2025,,571
+H9,QURU,1,,"Emily, Lilly",6/30/2025,,574
+H9,QUVE,3,,"Emily, Lilly",6/30/2025,,572
+H9,SAAL5,1,,"Emily, Lilly",6/30/2025,,577
+I1,CAGL,1,,"Emily, Lilly",6/30/2025,,580
+I1,CATO,1,,"Emily, Lilly",6/30/2025,,586
+I1,CECA4,1,,"Emily, Lilly",6/30/2025,,582
+I1,CEOC,1,1,"Emily, Lilly",6/30/2025,,581
+I1,DIVI5,0,1,"Emily, Lilly",6/30/2025,,584
+I1,HATE3,3,,"Emily, Lilly",6/30/2025,,585
+I1,NYSY,2,,"Emily, Lilly",6/30/2025,,583
+I1,QUAL,7,2,"Emily, Lilly",6/30/2025,,578
+I1,QUVE,4,,"Emily, Lilly",6/30/2025,,579
+I10,CAAM2,0,1,"Emily, Lilly",6/30/2025,,592
+I10,CATO,4,,"Emily, Lilly",6/30/2025,,591
+I10,CECA4,3,,"Emily, Lilly",6/30/2025,,587
+I10,CEOC,2,,"Emily, Lilly",6/30/2025,,590
+I10,HATE3,3,,"Emily, Lilly",6/30/2025,,589
+I10,QUAL,15,,"Emily, Lilly",6/30/2025,,588
+I2,CAAM2,1,,"Emily, Lilly",6/30/2025,,596
+I2,CATO,2,,"Emily, Lilly",6/30/2025,,595
+I2,DIVI5,6,,"Emily, Lilly",6/30/2025,,594
+I2,QUVE,2,,"Emily, Lilly",6/30/2025,,593
+I3,CAGL,2,,"Emily, Lilly",6/30/2025,,597
+I3,CATO,1,,"Emily, Lilly",6/30/2025,,601
+I3,CECA4,4,,"Emily, Lilly",6/30/2025,,599
+I3,HATE3,2,,"Emily, Lilly",6/30/2025,,600
+I3,QUVE,3,,"Emily, Lilly",6/30/2025,,598
+I4,CECA4,1,,"Emily, Lilly",6/30/2025,,603
+I4,DIVI5,2,,"Emily, Lilly",6/30/2025,,604
+I4,HATE3,1,,"Emily, Lilly",6/30/2025,,605
+I4,NYSY,1,,"Emily, Lilly",6/30/2025,,602
+I4,QUVE,1,,"Emily, Lilly",6/30/2025,,606
+I5,AEPA,1,,"Emily, Lilly",6/30/2025,,608
+I5,CAAM2,2,,"Emily, Lilly",6/30/2025,,607
+I5,CECA4,1,,"Emily, Lilly",6/30/2025,,609
+I5,NYSY,1,,"Emily, Lilly",6/30/2025,,610
+I6,AEPA,1,,"Emily, Lilly",6/30/2025,,611
+I6,ASTR,3,,"Emily, Lilly",6/30/2025,,618
+I6,CECA4,2,,"Emily, Lilly",6/30/2025,,615
+I6,CEOC,9,,"Emily, Lilly",6/30/2025,,613
+I6,HATE3,6,3,"Emily, Lilly",6/30/2025,,612
+I6,QUAL,4,,"Emily, Lilly",6/30/2025,,617
+I6,QUVE,2,,"Emily, Lilly",6/30/2025,,614
+I6,TIAM,1,,"Emily, Lilly",6/30/2025,,616
+I7,AEPA,1,,"Emily, Lilly",6/30/2025,,621
+I7,ASTR,2,,"Emily, Lilly",6/30/2025,,625
+I7,HATE3,1,,"Emily, Lilly",6/30/2025,,619
+I7,HYAR,2,,"Emily, Lilly",6/30/2025,,623
+I7,QUAL,2,,"Emily, Lilly",6/30/2025,,622
+I7,RHCA,4,,"Emily, Lilly",6/30/2025,,624
+I7,VIAC,36,,"Emily, Lilly",6/30/2025,,620
+I8,DIVI5,1,,"Emily, Lilly",6/30/2025,,630
+I8,FRPE,1,,"Emily, Lilly",6/30/2025,,628
+I8,HATE3,2,1,"Emily, Lilly",6/30/2025,,627
+I8,HYAR,5,,"Emily, Lilly",6/30/2025,,629
+I8,QUAL,3,,"Emily, Lilly",6/30/2025,,626
+I9,CAGL,2,,"Emily, Lilly",6/30/2025,,633
+I9,CECA4,1,,"Emily, Lilly",6/30/2025,,632
+I9,DIVI5,1,,"Emily, Lilly",6/30/2025,,634
+I9,HATE3,29,2,"Emily, Lilly",6/30/2025,,631
+J1,AEPA,1,,"Emily, Lilly",6/30/2025,,641
+J1,CAGL,3,,"Emily, Lilly",6/30/2025,,637
+J1,CATO,3,,"Emily, Lilly",6/30/2025,,639
+J1,DIVI5,4,,"Emily, Lilly",6/30/2025,,638
+J1,HYAR,2,,"Emily, Lilly",6/30/2025,,636
+J1,QUAL,35,,"Emily, Lilly",6/30/2025,,635
+J1,TIAM,4,,"Emily, Lilly",6/30/2025,,640
+J10,CAAM2,1,,"Lucy,Tegan",6/30/2025,,646
+J10,CEOC,3,,"Lucy,Tegan",6/30/2025,,642
+J10,DIVI5,2,,"Lucy,Tegan",6/30/2025,,644
+J10,QUVE,1,,"Lucy,Tegan",6/30/2025,,645
+J10,TIAM,2,,"Lucy,Tegan",6/30/2025,,643
+J2,CAGL,1,,"Emily, Lilly",6/30/2025,,647
+J2,CATO,1,,"Emily, Lilly",6/30/2025,,651
+J2,CATO,1,,"Emily, Lilly",6/30/2025,,654
+J2,CEOC,1,,"Emily, Lilly",6/30/2025,,650
+J2,CEOC,1,,"Emily, Lilly",6/30/2025,,653
+J2,NYSY,1,,"Emily, Lilly",6/30/2025,,648
+J2,QUAL,1,,"Emily, Lilly",6/30/2025,,656
+J2,QUVE,1,,"Emily, Lilly",6/30/2025,,649
+J2,QUVE,1,,"Emily, Lilly",6/30/2025,,652
+J2,QUVE,1,,"Emily, Lilly",6/30/2025,,655
+J3,CECA4,10,,"Emily, Lilly",6/30/2025,,657
+J3,DIVI5,1,,"Emily, Lilly",6/30/2025,,660
+J3,QUAL,2,,"Emily, Lilly",6/30/2025,,659
+J3,RHCA,7,1,"Emily, Lilly",6/30/2025,,658
+J4,ASTR,1,,"Emily, Lilly",6/30/2025,,669
+J4,CAAM2,1,,"Emily, Lilly",6/30/2025,,665
+J4,CATO,1,,"Emily, Lilly",6/30/2025,,668
+J4,CECA4,8,,"Emily, Lilly",6/30/2025,,661
+J4,CEOC,5,,"Emily, Lilly",6/30/2025,,663
+J4,DIVI5,3,,"Emily, Lilly",6/30/2025,,662
+J4,QUAL,1,,"Emily, Lilly",6/30/2025,,664
+J4,RHCA,4,,"Emily, Lilly",6/30/2025,,666
+J4,TIAM,1,,"Emily, Lilly",6/30/2025,,667
+J5,CAAM2,5,,"Emily, Lilly",6/30/2025,,677
+J5,CATO,1,,"Emily, Lilly",6/30/2025,,671
+J5,CECA4,2,,"Emily, Lilly",6/30/2025,,676
+J5,CEOC,3,,"Emily, Lilly",6/30/2025,,674
+J5,LIST2,5,,"Emily, Lilly",6/30/2025,,675
+J5,NYSY,6,1,"Emily, Lilly",6/30/2025,,670
+J5,QUAL,1,,"Emily, Lilly",6/30/2025,,673
+J5,QUVE,1,,"Emily, Lilly",6/30/2025,,672
+J6,CAAM2,7,2,"Emily, Lilly",6/30/2025,,679
+J6,CATO,1,,"Emily, Lilly",6/30/2025,,681
+J6,CECA4,4,3,"Emily, Lilly",6/30/2025,,678
+J6,DIVI5,0,1,"Emily, Lilly",6/30/2025,,682
+J6,LIST2,,,"Emily, Lilly",6/30/2025,,683
+J6,QUAL,2,,"Emily, Lilly",6/30/2025,,680
+J7,CAAM2,2,,"Lucy,Tegan",6/30/2025,,689
+J7,CATO,2,,"Lucy,Tegan",6/30/2025,,687
+J7,CECA4,3,,"Lucy,Tegan",6/30/2025,,686
+J7,OSVI,1,,"Lucy,Tegan",6/30/2025,,688
+J7,QUAL,13,,"Lucy,Tegan",6/30/2025,,684
+J7,QUVE,0,,"Lucy,Tegan",6/30/2025,,685
+J8,ASTR,1,,"Lucy,Tegan",6/30/2025,,691
+J8,CAAM2,1,,"Lucy,Tegan",6/30/2025,,695
+J8,CATO,4,,"Lucy,Tegan",6/30/2025,,692
+J8,CECA4,1,,"Lucy,Tegan",6/30/2025,,693
+J8,DIVI5,0,1,"Lucy,Tegan",6/30/2025,,696
+J8,QUAL,4,,"Lucy,Tegan",6/30/2025,,690
+J8,QUVE,1,,"Lucy,Tegan",6/30/2025,,694
+J9,AEPA,1,,"Lucy,Tegan",6/30/2025,,704
+J9,ASTR,2,,"Lucy,Tegan",6/30/2025,,706
+J9,CATO,2,,"Lucy,Tegan",6/30/2025,,699
+J9,CECA4,14,,"Lucy,Tegan",6/30/2025,,700
+J9,CEOC,28,,"Lucy,Tegan",6/30/2025,,697
+J9,DIVI5,8,,"Lucy,Tegan",6/30/2025,,698
+J9,HATE3,2,,"Lucy,Tegan",6/30/2025,,705
+J9,QURU,1,,"Lucy,Tegan",6/30/2025,,707
+J9,RHCA,1,,"Lucy,Tegan",6/30/2025,,702
+J9,TIAM,2,,"Lucy,Tegan",6/30/2025,,703
+J9,VAAR,1,,"Lucy,Tegan",6/30/2025,,701
